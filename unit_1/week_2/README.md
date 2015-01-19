@@ -5,4 +5,4 @@
 4. Treehouse: [HTML Forms](http://teamtreehouse.com/library/html-forms)
 5. Treehouse: [HTML Tables](http://teamtreehouse.com/library/html-tables)
 6. Treehouse: [CSS Layout Techniques](http://teamtreehouse.com/library/css-layout-techniques)
-7. [Create Your Own Website](https://github.com/enspiral-dev-academy/phase-0-unit-1/tree/master/week-2/8-your-website-solo-challenge)
+7. [Create Your Own Website](https://github.com/enspiral-dev-academy/phase-0-unit-1/tree/master/week-2/8-your-website-solo-challenge) TODO, edit github pages site, make pretty
