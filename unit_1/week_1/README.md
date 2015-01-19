@@ -1,6 +1,6 @@
 # Week 1: The Command Line, Git, + Github
 
-## To-do:
+## To-Do:
 
 1. Complete "Getting Started with the Console" in Treehouse's [Console Foundations](http://teamtreehouse.com/library/console-foundations) Course
 2. Complete Treehouse's [Git Basics](http://teamtreehouse.com/library/git-basics) Course
