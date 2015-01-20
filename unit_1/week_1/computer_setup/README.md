@@ -1,1 +1,0 @@
-TODO, download git, cmd line tools, sublime
