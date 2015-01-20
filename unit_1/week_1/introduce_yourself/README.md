@@ -18,5 +18,5 @@ Which concepts you found most interesting
 The city you currently live in
 Your preferred way of connecting with the group each week (hangout, email, in person, if possible).
 
-# Awwwwwhhhhhhh Yeeeaahhhhhhh
+# AWWWWHHHHHHHHWHWHHWHHHHHH YEEEAHHHHHHHHHHHHHHHHHHHH
 You're done with this week. How do you feel? Feel free to share your thoughts on the cohort's Slack channel! If you want to tell us how you're feeling, email phase0@devacademy.co.nz
