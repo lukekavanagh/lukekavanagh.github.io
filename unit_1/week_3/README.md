@@ -1,4 +1,4 @@
-## Module 3: Javascript + JQuery
+## Week 3: Javascript + JQuery
 1. Treehouse: [Intro to Programming](http://teamtreehouse.com/library/introduction-to-programming)
 2. Treehouse: [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
 3. [Javascript Variables and Object Types](https://github.com/pukeko-2015/phase-0-unit-3/tree/master/week-7/3-js-variables-objects)
