@@ -8,7 +8,7 @@ Use terminal to find your challenge's folder, and open its contents with sublime
 
 ## Read the Instructions
 
-This is obvious and self-explanatory, but nevertheless important to mention. Taking time to read the instructions can save you heaps of time + confusion.
+Reading the instructions will save you heaps of time + confusion.
 
 ## Work On Your Solution
 
