@@ -1,6 +1,6 @@
 # Week 1: The Command Line, Git, + Github
 
-This week, you will fall in love with Git, Github, and the concept of version control and collaborative coding.
+This week, you will fall in love with Git, Github, and the concept of version control and collaborative coding. Enjoy!
 
 ## To-Do:
 
