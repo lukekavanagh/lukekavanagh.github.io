@@ -1,5 +1,7 @@
 # Week 1: The Command Line, Git, + Github
 
+This week, you will fall in love with Git, Github, and the concept of version control and collaborative coding.
+
 ## To-Do:
 
 1. Complete "Getting Started with the Console" in Treehouse's [Console Foundations](http://teamtreehouse.com/library/console-foundations) Course
