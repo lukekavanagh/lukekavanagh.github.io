@@ -59,4 +59,4 @@ When all of the tests have passed, your final `terah` object will be logged to t
 
 ## Release 2: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 3: Commit and push your changes!
+## Release 3: Commit and push your changes! 
