@@ -3,7 +3,7 @@
 2. Treehouse: [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
 3. [Javascript Variables and Object Types](./js-variables-objects)
 4. [Manipulating Javascript Objects](./manipulating-js-objects)
-5. [Code Telephone Group Project](https://github.com/pukeko-2015/phase-0-unit-3/tree/master/week-7/6-group-project)
+5. [Create an Electronic Grocery List](./electronic-grocery-list)
 6. Treehouse: [Interactive Web Pages with Javascript](http://teamtreehouse.com/library/interactive-web-pages-with-javascript)
 7. Treehouse: [JQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 8. Treehouse: [Accessibility](http://teamtreehouse.com/library/accessibility)
