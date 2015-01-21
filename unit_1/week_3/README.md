@@ -12,4 +12,4 @@ This week, we'll learn some basic principles + common patterns of programming. Y
 8. Treehouse: [JQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 9. Treehouse: [Accessibility](http://teamtreehouse.com/library/accessibility)
 10. Treehouse: [Website Optimization](http://teamtreehouse.com/library/website-optimization)
-11. [Make your Website Interactive](./interactive) 
+11. [Make your Website Interactive](./interactive-website) 
