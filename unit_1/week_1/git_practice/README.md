@@ -6,6 +6,8 @@ At this point, you have a good understanding of git and the command line. You've
 
 Go to the [root](../../../../..) of this repo. At the top of the page, there's a fork button. Press it. You'll be prompted to choose a repository to fork to. Choose yours. You should now have a copy of our repo in your github account. 
 
+**From this point through the rest of phase zero, you will be working entirely off of this fork**
+
 ## Clone your Copy of the Phase Zero Repo
 
 Now, you're going to clone (aka make a local copy of) your forked repo.
