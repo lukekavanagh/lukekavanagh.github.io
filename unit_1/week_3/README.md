@@ -7,7 +7,7 @@ This week, we'll learn some basic principles + common patterns of programming. Y
 3. Download [Node.js](http://nodejs.org/download/) and review [these guidelines](../../phase-0-handbook/submission-guidelines) on submitting challenges
 4. [Javascript Variables and Object Types](./js-variables-objects)
 5. [Manipulating Javascript Objects](./manipulating-js-objects)
-6. [Create an Electronic Grocery List](./electronic-grocery-list)
+6. GPS: [Model a Grocery List](./grocery-list)
 7. Treehouse: [Interactive Web Pages with Javascript](http://teamtreehouse.com/library/interactive-web-pages-with-javascript)
 8. Treehouse: [JQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 9. Treehouse: [Accessibility](http://teamtreehouse.com/library/accessibility)
