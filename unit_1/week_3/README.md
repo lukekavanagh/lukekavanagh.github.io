@@ -4,7 +4,7 @@ This week, we'll learn some basic principles + common patterns of programming. Y
 
 1. Treehouse: [Intro to Programming](http://teamtreehouse.com/library/introduction-to-programming)
 2. Treehouse: [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
-3. Download [Node.js](http://nodejs.org/download/) and review [these guidelines](../../phase-0-handbook) on submitting challenges
+3. Download [Node.js](http://nodejs.org/download/) and review [these guidelines](../../phase-0-handbook/submission-guidelines) on submitting challenges
 4. [Javascript Variables and Object Types](./js-variables-objects)
 5. [Manipulating Javascript Objects](./manipulating-js-objects)
 6. [Create an Electronic Grocery List](./electronic-grocery-list)
