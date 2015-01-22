@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Good Guess
+# Good Guess
 
 ## Learning Competencies
 - Define local variables and methods
