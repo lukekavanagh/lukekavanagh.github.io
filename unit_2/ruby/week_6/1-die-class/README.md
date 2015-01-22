@@ -28,5 +28,5 @@ Once your code passes the tests, move on to refactoring.
 ## Release 3: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 Make sure your code still passes the tests!
 
-## Release 4: Commit and Push!
+## Release 4: Push!
 If you want feedback, continue using Slack and G+ to request it!
