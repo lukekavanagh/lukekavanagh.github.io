@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Find the shortest string in an array
+# Find the shortest string in an array
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
