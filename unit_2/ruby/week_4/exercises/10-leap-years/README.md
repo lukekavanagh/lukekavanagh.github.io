@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Leap Year
+# Leap Year
 
 ## Learning Competencies
 - Define local variables and methods
