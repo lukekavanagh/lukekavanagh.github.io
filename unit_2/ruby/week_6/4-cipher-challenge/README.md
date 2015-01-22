@@ -1,6 +1,4 @@
-[Week 5 Home](../)
-
-# U2.W4: Pair Cipher Challenge (Mandatory pairing challenge)
+# Cipher Challenge (Pairing challenge)
 
 ## Learning Competencies
 - Identify and explain what code is doing
@@ -30,11 +28,5 @@ Use [driver test code](https://github.com/enspiral-dev-academy/phase-0-handbook/
   - Clean up the variable names.
   - The original code used a hard-coded hash to do the encryption. Can you create a simple algorithm instead? The original shift was by 4 characters. What would happen if it was changed to 10? Would your class be able to handle that change easily?
 
-## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: Push your changes
+## Release 4: Push!
 Push your solution to Github, then request feedback on Slack
-
-## Release 6: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md)
-**Review other solutions on this challenge. This is not optional.**
-
