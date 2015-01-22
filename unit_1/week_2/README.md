@@ -11,4 +11,5 @@ Remember that personal website you set up last week with github pages? By the en
 4. Treehouse: [HTML Forms](http://teamtreehouse.com/library/html-forms)
 5. Treehouse: [HTML Tables](http://teamtreehouse.com/library/html-tables)
 6. Treehouse: [CSS Layout Techniques](http://teamtreehouse.com/library/css-layout-techniques)
-7. [Create Your Own Website](./create_your_own_website)
+7. Treehouse: [Accessibility](http://teamtreehouse.com/library/accessibility)
+8. [Create Your Own Website](./create_your_own_website)
