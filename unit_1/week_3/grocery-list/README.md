@@ -24,7 +24,4 @@ Create your initial solution. You'll know that you're done when your driver code
 ## Release 4: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 With your partner, review the code. Is it DRY? Are the names good?
 
-## Release 5: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-Copy your code from stypi into the [our_solution.rb](our_solution.rb) file. 
-
-## Release 6: Push your changes to Github!
+## Release 5: Push your changes to Github!
