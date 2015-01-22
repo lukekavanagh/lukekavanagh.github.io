@@ -14,7 +14,7 @@ Reading the instructions will save you heaps of time + confusion.
 
 Work smart and commit often. If necessary, write some pseudocode outlining your proposed solution. Then stage + commit. Whenever you get a part of your code working, stage + commit. When all your code works, stage + commit. After refactoring your solution, stage + commit. After refactoring your solution even further, stage + commit. 
 
-## Submit Your Solution + Reflect
+## Push + Reflect
 
 When you're done, push your commits up to github. Take time to reflect on what you learned. There is a tendency to finish and quickly move on -- this will be detrimental to your learning. Think about the tools you learned. Know what they're good for and know their limitations. You will surely use them again, so think about how you might use them in future problems. Think about the mistakes you made and try not to repeat them in the future. Think about how much more you know now compared to the week before.
 
