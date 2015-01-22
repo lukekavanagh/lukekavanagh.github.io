@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Define a Hash
+# Define a Hash
 
 ## Learning Competencies
 - Define and access values in a hash
