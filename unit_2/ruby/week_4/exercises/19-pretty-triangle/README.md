@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Print a Pretty Right Triangle
+# Print a Pretty Right Triangle
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
