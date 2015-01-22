@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Local variables and basic arithmetical operations
+# Local variables and basic arithmetical operations
 
 ## Learning Competencies
 - Define local variables and methods
