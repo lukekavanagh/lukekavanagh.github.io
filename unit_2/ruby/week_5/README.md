@@ -1,5 +1,7 @@
 # Week 5: Algorithms 
 
+Last week you built up a toolkit of ruby methods. You practiced with them and gained a good intuition of how they work, what they're used for, and so on. This week you'll use that toolkit to solve some more complex problems.
+
 1. [Add It Up](./1-add-it-up)
 2. [Pad An Array](./2-pad-array)
 3. [GPS: Calculate the Mode](./3-calculate-mode)
