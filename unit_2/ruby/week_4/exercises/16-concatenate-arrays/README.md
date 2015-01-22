@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Concatenate Two Arrays
+# Concatenate Two Arrays
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
