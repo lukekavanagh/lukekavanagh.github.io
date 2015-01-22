@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Valid Triangle
+# Valid Triangle
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
