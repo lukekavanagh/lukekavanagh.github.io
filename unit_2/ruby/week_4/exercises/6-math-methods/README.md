@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Basic Arithematical Methods
+# Basic Arithematical Methods
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
