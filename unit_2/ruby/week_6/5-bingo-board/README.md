@@ -1,6 +1,4 @@
-[Week 5 Home](../)
-
-# U2.W5: A Nested Array to Model a Bingo Board [Solo Challenge](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/solo-challenges.md)
+# A Nested Array to Model a Bingo Board [Solo Challenge](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
 - Break down problems into implementable pseudocode
@@ -11,8 +9,6 @@
 ## Summary
 
 By now, you have had some practice using arrays `[ ]` and hashes `{ }`. These structures are great for holding collections of data. In this exercise, we will be look at a nested array, or an array that contains arrays in it.
-
-<img src="http://cf.chucklesnetwork.com/items/7/5/7/0/0/original/i-heard-u-like-arrays-so-we-put-an-array-in-your-array.jpg" width="250px" height="250px" />
 
 This sounds complicated, but you will find that it is almost the same as accessing a one-dimensional array. You will probably want to practice looping through nested arrays in IRB to get the hang of it first. This challenge may take you a long time, so make sure to give yourself time to go through each step, and use good time-management skills. Take breaks when you get stuck. Don't power through it. If you are truly stuck and tired, you will be better off taking a break and returning to the challenge later.
 
@@ -63,10 +59,8 @@ This class randomly generates a board each time you create a new BingoBoard Obje
 ## Release 3: [Refactored Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Refactor your initial solution. Run the driver tests often to determine when you break something.
 
-## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: Publish
-Commit your changes and push your solution to GitHub.
+## Release 4: Publish
+Push your solution to GitHub.
 
 ##BONUS Release 6: True Bingo Board
 
@@ -76,7 +70,3 @@ The bingo board generated with this code
 creates a 5x5 array with random numbers from 1-100, but that is not how true bingo boards work. Traditionally the pattern is like this: "B" (numbers 1–15), "I" (numbers 16–30), "N" (numbers 31–45), "G" (numbers 46–60), and "O" (numbers 61–75) with a free space in the middle.
 
 Instead of having the code create a random board, have it create a board that would be legal to play Bingo with.
-
-## External Resources
-
-- [Ruby Array Docs](http://www.ruby-doc.org/core-2.1.3/Array.html)
