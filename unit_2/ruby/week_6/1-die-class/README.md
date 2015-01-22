@@ -1,40 +1,47 @@
-[Week 5 Home](../)
+[Week 4 Home](../)
 
-# U2.W5: Die Class 2: Arbitrary Symbols
+# U2.W4: Die Class 1: Numeric
 
 ## Learning Competencies
 - Break a large problem down into smaller steps
-- Build and call instances of classes with its methods
-- Find and use built-in Ruby methods to solve challenges
+- Implement a method or class based on pseudocode
+- Research and use Ruby methods
+- Define a Ruby class and describe why you would use one
+- Identify the scope of different variables
 
 ## Summary
-Working off your previous `Die` class from [Die Class 1](../../week-4/7-die-class), implement a new `Die` class which takes an array of strings as its input.  When `Die#roll` is called, it randomly returns one of these strings.  If `Die.new` is passed an empty array, raise an `ArgumentError`.  It should work like this:
+In the last challenge, you saw your first Class (in that case the Array class). In this challenge you'll want to implement a basic `Die` class which can be initialized with some number of sides.  We can then roll the die, returning a random number. It should work like this:
 
 ```ruby
-die = Die.new(['A', 'B', 'C', 'D', 'E', 'F'])
-die.sides # still returns the number of sides, in this case 6
-die.roll # returns one of ['A', 'B', 'C', 'D', 'E', 'F'], randomly
+die = Die.new(6) #This creates a new die object with 6 sides
+die.sides # returns 6
+die.roll # returns a random number between 1 and 6
 ```
 
-Just to reiterate, in the previous exercise you passed in a number of sides, `sides`, and the labels were assumed to be the integers `1..sides`.  Now we're passing in a list of arbitrary labels.  We could use this to represent a [Dreidel](http://en.wikipedia.org/wiki/Dreidel) or [Boggle Dice](http://en.wikipedia.org/wiki/Boggle), for example.
+If we pass `Die.new` a number less than `1`, we should raise an `ArgumentError`.  This is done using the `raise` keyword.  See the [ArgumentError documentation](http://apidock.com/ruby/ArgumentError) for how to do this.
+
+Use the [Ruby Docs](http://www.ruby-doc.org/) to see how to return a random number.
+
+Before starting this challenge, you will want to read a bit about classes and Ruby objects. Try one or two of these:
+- [Writing our own Class in Ruby](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
+- [Ruby Classes and Objects](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
+- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/) ch. 3 (read week 3's [BONUS challenge](https://github.com/pukeko-2015/phase-0-unit-1/blob/master/week-3/10-BONUS-challenges/Well-Grounded-Rubyist.md) for a discount code)
+
 
 ## Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 1: [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: Write your [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-Make sure your code passes the tests before moving on.
-
-## Release 2: Translate the tests
-
-Translate the tests into [Driver Test Code](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/driver-code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it. Please only write tests for cases that will return a boolean value. 
+## Release 2: Run the tests
+Once your code passes the tests, move on to refactoring.
 
 ## Release 3: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
-
 Make sure your code still passes the tests!
 
 ## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 5: Push your solution to Github
+## Release 5: Commit and Push!
+If you want feedback, continue using Slack and G+ to request it!
 
 ## Release 6: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**

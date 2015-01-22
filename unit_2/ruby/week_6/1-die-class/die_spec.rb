@@ -6,8 +6,14 @@ describe Die do
       expect(Die.instance_method(:initialize).arity).to eq 1
     end
 
-    it 'raises an ArgumentError if list of labels is empty' do
-      expect { Die.new([]) }.to raise_error(ArgumentError)
+    it 'raises an ArgumentError if sides < 1' do
+      expect {
+        Die.new(0)
+      }.to raise_error(ArgumentError)
+
+      expect {
+        Die.new(-1)
+      }.to raise_error(ArgumentError)
     end
   end
 
@@ -17,11 +23,10 @@ describe Die do
     end
 
     it 'returns the number of sides given on initialization' do
-      length = 1 + rand(100)
-      sides = Array.new(length) { 'A' }
+      sides = rand(800)
       die = Die.new(sides)
 
-      expect(die.sides).to eq length
+      expect(die.sides).to eq sides
     end
   end
 
@@ -31,21 +36,14 @@ describe Die do
       expect(Die.instance_method(:roll).arity).to be_zero
     end
 
-    it 'returns a single letter if one label is passed in' do
-      random_letter = ('A'..'Z').to_a[rand(26)]
-      die = Die.new([random_letter])
+    it 'returns a random number between 1 and the number of sides' do
+      sides = 100 + rand(100)
+      die = Die.new(sides)
 
-      expect(Array.new(100) { die.roll }).to eq Array.new(100) { random_letter }
-    end
+      possible_values = (1..sides).to_a
+      unique_rolls = Array.new(20000) { die.roll }.uniq.sort
 
-    it 'returns every possible letter for a sufficiently large number of rolls' do
-      possible_values = ('A'..'Z').to_a.shuffle.first(15)
-
-      die = Die.new(possible_values)
-
-      output = Array.new(10000) { die.roll }.uniq
-
-      expect(output.sort).to eq possible_values.sort
+      expect(unique_rolls).to eq possible_values
     end
   end
 end
