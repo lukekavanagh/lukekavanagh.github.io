@@ -1,6 +1,4 @@
-[Week 4 Home](./)
-
-# U2.W4: Accountability Group Creator!
+# Accountability Group Creator!
 
 ## Learning Competencies
 - Break a large problem down into smaller steps
