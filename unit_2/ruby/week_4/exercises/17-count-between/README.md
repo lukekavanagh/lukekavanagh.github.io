@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Count the number of elements between two bounds
+# Count the number of elements between two bounds
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
