@@ -62,7 +62,7 @@ Refactor your initial solution. Run the driver tests often to determine when you
 ## Release 4: Publish
 Push your solution to GitHub.
 
-##BONUS Release 6: True Bingo Board
+##BONUS Release 5: True Bingo Board
 
 The bingo board generated with this code
 `    @bingo_board = Array.new(5) {Array(5.times.map{rand(1..100)})}
