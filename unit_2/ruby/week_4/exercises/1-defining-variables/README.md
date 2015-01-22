@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Defining Variables
+# Defining Variables
 
 ## Learning Competencies
 - Define local variables
