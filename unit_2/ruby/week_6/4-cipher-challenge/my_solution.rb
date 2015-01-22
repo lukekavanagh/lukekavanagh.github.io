@@ -1,15 +1,4 @@
-# U2.W4: Cipher Challenge
-
-
-# I worked on this challenge with: .
-
-
-
-# 1. Solution
-# Write your comments on what each thing is doing.
-# If you have difficulty, go into IRB and play with the methods.
-
-
+# Cipher Challenge
 
 def north_korean_cipher(coded_message)
   input = coded_message.downcase.split("") # Check out this method in IRB to see how it works! Also refer to the Ruby docs.
@@ -71,12 +60,6 @@ def north_korean_cipher(coded_message)
   return decoded_sentence # What is this returning?
 end
 
-# Your Refactored Solution
-
-
-
-
-
 # Driver Test Code:
 p north_korean_cipher("m^aerx%e&gsoi!") == "i want a coke!" #This is driver test code and should print true
 # Find out what Kim Jong Un is saying below and turn it into driver test code as well. Driver test code statements should always return "true"
@@ -85,6 +68,3 @@ p north_korean_cipher("syv%ryoiw#evi#liph^xskixliv@fc^kveti-jpezsvih@xsjjii.*hsr
 p north_korean_cipher("mj^csy&qeoi^sri*qmwxeoi,%kir.*vm@csrk-kmp,&csy^ampp*fi&vitpegih*fc@hirrmw&vshqer.")
 p north_korean_cipher("ribx^wxst:$wsyxl%osvie,$xlir$neter,#xlir%xli%asvph!")
 p north_korean_cipher("ger^wsqifshc*nywx^kix^qi&10000*fekw@sj$gssp%vergl@hsvmxsw?")
-
-# Reflection
-# Keep your reflection limited to 10-15 minutes!
