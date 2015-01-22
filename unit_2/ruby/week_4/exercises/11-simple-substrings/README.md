@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Detecting Simple Substrings
+# Detecting Simple Substrings
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
