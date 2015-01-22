@@ -1,6 +1,4 @@
-[Week 4 Home](../)
-
-# U2.W4: Separate Numbers with Commas [Solo Challenge](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/solo-challenges.md)
+# Separate Numbers with Commas [Solo Challenge](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
 - Break a large problem down into smaller steps
