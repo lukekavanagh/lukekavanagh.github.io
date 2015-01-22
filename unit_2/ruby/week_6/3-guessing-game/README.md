@@ -1,6 +1,4 @@
-[Week 5 Home](../)
-
-# U2.W5: Build a Simple Guessing Game
+# Build a Simple Guessing Game
 
 ## Learning Competencies
 - Break down problems into implementable pseudocode
@@ -68,9 +66,4 @@ Translate at least 3 of the tests into [Driver Test Code](https://github.com/ens
 
 Make sure your code still passes the tests!
 
-## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: Push your solution to Github
-
-## Release 6: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 4: Push!
