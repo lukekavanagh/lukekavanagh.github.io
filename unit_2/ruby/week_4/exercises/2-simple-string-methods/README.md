@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Simple String Methods
+# Simple String Methods
 
 ## Learning Competencies
 - Create local variables
