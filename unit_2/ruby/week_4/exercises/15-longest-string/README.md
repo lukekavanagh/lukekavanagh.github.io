@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Find the Longest String in an Array
+# Find the Longest String in an Array
 
 ## Learning Competencies
 - Define local variables and methods
