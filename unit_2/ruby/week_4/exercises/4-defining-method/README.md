@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Defining an empty method
+# Defining an empty method
 
 ## Learning Competencies
 - Define a method that accepts arguments
