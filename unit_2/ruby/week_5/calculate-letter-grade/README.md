@@ -1,6 +1,4 @@
-[Week 4 Home](../../)
-
-# U2.W4: Calculate a Letter Grade
+# Calculate a Letter Grade
 
 ## Learning Competencies
 - Break a large problem down into smaller steps
