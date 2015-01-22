@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Define a method that returns a formatted address
+# Define a method that returns a formatted address
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
