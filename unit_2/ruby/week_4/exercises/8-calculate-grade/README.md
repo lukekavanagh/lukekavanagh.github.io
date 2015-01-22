@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Calculate a Letter Grade
+# Calculate a Letter Grade
 
 ## Learning Competencies
 - Define local variables and methods
