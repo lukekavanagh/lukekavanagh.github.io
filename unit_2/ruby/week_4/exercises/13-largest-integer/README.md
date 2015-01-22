@@ -1,6 +1,4 @@
-[Week 3 Home](../../)
-
-# U1.W3: Find the Largest Integer in an Array
+# Find the Largest Integer in an Array
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
