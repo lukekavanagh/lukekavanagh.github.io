@@ -1,6 +1,4 @@
-[Week 4 Home](../../)
-
-# U2.W4: Calculate the Median
+# Calculate the Median
 
 
 ## Learning Competencies
