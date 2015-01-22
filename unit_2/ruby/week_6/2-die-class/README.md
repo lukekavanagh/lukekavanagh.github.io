@@ -1,6 +1,4 @@
-[Week 5 Home](../)
-
-# U2.W5: Die Class 2: Arbitrary Symbols
+# Die Class 2: Arbitrary Symbols
 
 ## Learning Competencies
 - Break a large problem down into smaller steps
@@ -8,7 +6,7 @@
 - Find and use built-in Ruby methods to solve challenges
 
 ## Summary
-Working off your previous `Die` class from [Die Class 1](../../week-4/7-die-class), implement a new `Die` class which takes an array of strings as its input.  When `Die#roll` is called, it randomly returns one of these strings.  If `Die.new` is passed an empty array, raise an `ArgumentError`.  It should work like this:
+Working off your previous `Die` class from Die Class 1, implement a new `Die` class which takes an array of strings as its input.  When `Die#roll` is called, it randomly returns one of these strings.  If `Die.new` is passed an empty array, raise an `ArgumentError`.  It should work like this:
 
 ```ruby
 die = Die.new(['A', 'B', 'C', 'D', 'E', 'F'])
@@ -32,9 +30,4 @@ Translate the tests into [Driver Test Code](https://github.com/enspiral-dev-acad
 
 Make sure your code still passes the tests!
 
-## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: Push your solution to Github
-
-## Release 6: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 4: Push your solution to Github
