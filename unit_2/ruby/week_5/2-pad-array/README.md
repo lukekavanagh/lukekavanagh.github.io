@@ -1,6 +1,4 @@
-[Week 4 Home](../)
-
-# U2.W4: Create a Method to Pad an Array
+# Create a Method to Pad an Array
 
 ## Learning Competencies
 - Break a large problem down into smaller steps
