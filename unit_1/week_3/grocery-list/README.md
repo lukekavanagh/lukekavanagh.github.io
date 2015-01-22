@@ -1,4 +1,4 @@
-GPS 3.1 Create an Electronic Grocery List
+# GPS: Model a Grocery List
 
 ## Learning Competencies:
 - Create a Javascript object constructor and implement it with a basic script
