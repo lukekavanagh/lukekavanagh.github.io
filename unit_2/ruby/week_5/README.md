@@ -1,8 +1,10 @@
 # Week 5: Algorithms 
 
-1. [Add It Up](https://github.com/enspiral-dev-academy/phase-0-unit-2/tree/master/week-4/ruby/1-add-it-up)
-2. [Pad An Array](https://github.com/enspiral-dev-academy/phase-0-unit-2/blob/master/week-4/ruby/2-pad-array)
-3. [GPS Calculate the Mode](https://github.com/enspiral-dev-academy/phase-0-unit-2/blob/master/week-4/ruby/3-calculate-mode)
-4. [Research Methods](https://github.com/enspiral-dev-academy/phase-0-unit-2/blob/master/week-4/ruby/4-research-methods)
-5. [Separate Numbers with Commas](https://github.com/enspiral-dev-academy/phase-0-unit-2/blob/master/week-4/ruby/5-nums-commas-solo-challenge)
-6. [Create Accountability Groups](https://github.com/enspiral-dev-academy/phase-0-unit-2/tree/master/week-4/ruby/6-acct-groups)
+1. [Add It Up](./1-add-it-up)
+2. [Pad An Array](./2-pad-array)
+3. [GPS: Calculate the Mode](./3-calculate-mode)
+4. [Calculate a Letter Grade](./calculate-letter-grade)
+5. [Calculate the Median](./calculate-median)
+6. [Research Methods](./4-research-methods)
+7. [Separate Numbers with Commas](./5-nums-commas-solo-challenge)
+8. [Create Accountability Groups](./6-acct-groups)
