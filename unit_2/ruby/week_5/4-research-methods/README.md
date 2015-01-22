@@ -1,6 +1,4 @@
-[Week 4 Home](../)
-
-#U2.W4: Research Methods
+# Research Methods
 
 ## Learning Objectives
 - Research and use Ruby methods
