@@ -1,6 +1,4 @@
-[Week 4 Home](../../)
-
-# U2.W4: Calculate the Mode
+# Calculate the Mode
 **Pairing Challenge**
 
 ## Learning Competencies
