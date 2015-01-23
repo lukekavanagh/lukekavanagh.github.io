@@ -1,14 +1,11 @@
-[Week 6 Home](../)
-
-# U2.W6: Refactoring for Code Readability
-
+# Refactoring for Code Readability
 
 ## Learning Competencies
 - Explain what code is doing
 - Refactor for clarity and readability
 
 ## Summary
-Using the goals below, choose a challenge solution from [Class Warfare, Validate a Credit Card Number](../../week-5/6-validate-credit-card). This can be anyone's solution, but if you notice there's a lot of room for improvement with your own code, start with that. Find other's solutions by browsing the branches (just like you would to comment on a random person's solution).
+Using the goals below, refactor your solution for the "Validate a Credit Card Number" challenge.
 
 Paste the original unrefactored code in your my_solution.rb, and as you refactor, make notes of the changes you are making to achieve optimal readability. Include those notes along with the refactored version in your [my_solution.rb](my_solution.rb) file.
 
@@ -27,9 +24,4 @@ Comment each chunk of code in the original solution
 
 ## Release 2: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) the solution for readability
 
-## Release 3: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 4: Push your solution to Github
-
-## Release 5: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 3: Push your solution to Github
