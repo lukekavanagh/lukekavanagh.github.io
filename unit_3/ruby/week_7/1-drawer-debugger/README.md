@@ -1,6 +1,4 @@
-[Week 6 Home](../)
-
-# U2.W6: Drawer Debugger
+# Drawer Debugger
 
 ## Learning Competencies
 - Use error messages to correct syntax mistakes and/or drive development
@@ -22,9 +20,4 @@ Write tests using [Driver Test Code](https://github.com/enspiral-dev-academy/pha
 ## Release 3: Call it again (x3)
 Interact with the code by writing at least three more different method calls. Did they return what you expected?
 
-## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: Push your solution to GitHub
-
-## Release 6: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 4: Push your solution to GitHub
