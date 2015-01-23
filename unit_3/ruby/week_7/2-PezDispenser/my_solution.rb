@@ -1,7 +1,6 @@
-# U2.W6: PezDispenser Class from User Stories SOLO CHALLENGE
+# PezDispenser Class from User Stories SOLO CHALLENGE
 
-
-# 1. Review the following user stories:
+# Review the following user stories:
 # - As a pez user, I'd like to be able to "create" a new pez dispenser with a group of flavors that
 #      represent pez so it's easy to start with a full pez dispenser.
 # - As a pez user, I'd like to be able to easily count the number of pez remaining in a dispenser
@@ -11,29 +10,13 @@
 # - As a pez user, I'd like to be able to see all the flavors inside the dispenser so I know the order
 #      of the flavors coming up.
 
-
-# 2. Pseudocode
-
-
-
-# 3. Initial Solution
-
 class PezDispenser
 
 # your code here!
 
 end
 
-
-
-# 5. Refactored Solution
-
-
-
-
-
-
-# 1. DRIVER TESTS GO BELOW THIS LINE
+# DRIVER TESTS GO BELOW THIS LINE
 
 flavors = %w(cherry chocolate cola grape lemon orange peppermint raspberry strawberry).shuffle
 super_mario = PezDispenser.new(flavors)
@@ -46,8 +29,3 @@ puts "Now you have #{super_mario.pez_count} pez!"
 puts "Oh, you want one do you?"
 puts "The pez flavor you got is: #{super_mario.get_pez}"
 puts "Now you have #{super_mario.pez_count} pez!"
-
-
-
-
-# 6. Reflection
