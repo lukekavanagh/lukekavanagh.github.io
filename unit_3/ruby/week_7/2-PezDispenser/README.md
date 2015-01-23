@@ -1,6 +1,4 @@
-[Week 6 Home](../)
-
-# U2.W6: Create a PezDispenser Class from User Stories
+# Create a PezDispenser Class from User Stories
 
 ## Learning Competencies
 - Implement a basic Ruby class and identify when to use instance variables
@@ -30,9 +28,5 @@ Using Driver Test code, write a couple tests to make sure your code works before
 
 ## Release 5: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 6: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 6: Push your solution to Github
 
-## Release 7: Push your solution to Github
-
-## Release 8: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
