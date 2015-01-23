@@ -1,6 +1,4 @@
-[Week 6 Home](../)
-
-# U2.W6: Create a Bingo Scorer [SOLO CHALLENGE](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/solo-challenges.md)
+# Create a Bingo Scorer [SOLO CHALLENGE](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
 - Create, access and traverse nested data structures
@@ -50,11 +48,9 @@ Write [Driver Test Code](https://github.com/enspiral-dev-academy/phase-0-handboo
 
 ## Release 3: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 4: Push your solution to Github
 
-## Release 5: Push your solution to Github
-
-## Release 6: Other Win States (Optional)
+## Release 5: Other Win States (Optional)
 There are lots of different ways to win Bingo.
 
 <img src='http://davbingo.com/wp-content/uploads/2011/07/7-ways-to-win-bingo320.jpg' />
