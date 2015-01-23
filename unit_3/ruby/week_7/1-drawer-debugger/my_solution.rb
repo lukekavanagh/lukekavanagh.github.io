@@ -1,8 +1,4 @@
-# U2.W6: Drawer Debugger
-
-# I worked on this challenge [by myself, with: ].
-
-# Original Code
+# Drawer Debugger
 
 class Drawer
 
@@ -96,9 +92,3 @@ puts spoon.clean #=> this should be false
 
 # DRIVER TESTS GO BELOW THIS LINE
 
-
-
-
-
-
-# Reflection
