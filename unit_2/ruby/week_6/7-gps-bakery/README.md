@@ -33,7 +33,7 @@ When the session is over, reflect on your learning.
 Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!
 
 
-## Release 7: (Optional)
+## Release 6: (Optional)
 (In case you didn't get enough of the delicious horrible-code)
 
 Expand the program for the customer based on their requests. Use the methodology you've been practicing. (Write [Driver Test Code](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/driver-code.md), [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md), [Write your initial solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md), [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)).
