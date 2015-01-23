@@ -1,7 +1,4 @@
-[Week 5 Home](../)
-
-# U2.W5: Virus Predictor Pair Challenge
-
+# Virus Predictor Pair Challenge
 
 ## Learning Competencies
 - Identify and explain what code is doing
@@ -39,7 +36,5 @@ ONLY look at the `virus_effects` method and the two methods called inside it. (D
 What is the purpose of "private"? What happens if you move it above `virus_effects`?
 
 ## Release 7: Refactor!
-Refactor the private methods `predicted_deaths` and `speed_of_spread`. How can you make them more D.R.Y.?
-
-## Release 8: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+Refactor the private methods `predicted_deaths` and `speed_of_spread`. How can you make them more D.R.Y.?)
 
