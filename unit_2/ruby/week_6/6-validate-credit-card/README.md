@@ -1,12 +1,9 @@
-[Week 5 Home](../)
-
-# U2.W5: Class Warfare, Validate a Credit Card Number
+# Validate a Credit Card Number
 
 ## Learning Competencies
 - Iterate and manipulate data in data structures
 - Break a large problem down into smaller steps
 - Find and use built-in Ruby methods to solve challenges
-
 
 ## Summary
 Given a credit card number we should be able to validate whether it is valid based on the [Luhn algorithm](http://en.wikipedia.org/wiki/Luhn_algorithm).
@@ -54,9 +51,4 @@ Translate at least 3 of the tests into [Driver Test Code](https://github.com/ens
 
 Make sure your code still passes the tests!
 
-## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: Push your solution to GitHub.
-
-## Release 6: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 4: Push your solution to GitHub.
