@@ -1,4 +1,5 @@
-## Week 8: Databases + Review
+# Week 8: Databases + Review
+
 1. Treehouse: [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 2. [JavaScript Gradebook](https://github.com/pukeko-2015/phase-0-unit-3/blob/master/week-8/3-js-gradebook)
 3. [JavaScript Tally Votes](https://github.com/pukeko-2015/phase-0-unit-3/blob/master/week-8/4-js-tally-votes)
