@@ -1,6 +1,4 @@
-[Week 5 Home](../)
-
-# U2.W5: The Bakery Challenge
+# The Bakery Challenge
 
 **This is a Guided Pairing Session challenge for Unit 2. Please do not look at the challenge until your Guided Pairing Session.**
 
@@ -31,10 +29,7 @@ When you get to code that is difficult to read, seems redundant, or badly execut
 ## Release 4: Reflect
 When the session is over, reflect on your learning.
 
-## Release 5: Submit Feedback for your Pair
-Submit Feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
-
-## Release 6: Submit your challenge!
+## Release 5: Submit your challenge!
 Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!
 
 
