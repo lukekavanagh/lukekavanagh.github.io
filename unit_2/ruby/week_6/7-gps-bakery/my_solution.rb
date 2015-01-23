@@ -1,4 +1,4 @@
-# U2.W5: Bakery Challenge GPS
+# Bakery Challenge GPS
 
 # I worked on this challenge with: 
 
@@ -29,11 +29,4 @@ p bakery_num(130, "pie") == "You need to make 16 pie(s), 0 cake(s), and 2 cookie
 
 # You SHOULD change this driver test code. Why? Because it doesn't make sense.
 p bakery_num(41, "cake") == "You need to make 5 pie(s), 0 cake(s), and 1 cookie(s)." # WHAAAAAT? I thought I said I wanted cake!
-
-
-
-
-#  Reflection 
-
-
 
