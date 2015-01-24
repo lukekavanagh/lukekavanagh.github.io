@@ -16,3 +16,14 @@ This week, we'll learn some basic principles + common patterns of programming. Y
 11. [DOM Manipulation](./DOM-manipulation)
 12. [Practice JQuery](./jquery)
 13. [Make your Website Interactive](./interactive-website)
+
+## Submitting your work
+
+- You must complete the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u) to turn in your work.
+- The week's work is due each Sunday by 11:59pm.  
+
+**if you do not finish by the deadline:**
+
+- Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u)
+
