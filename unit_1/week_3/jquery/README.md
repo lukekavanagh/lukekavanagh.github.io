@@ -1,4 +1,4 @@
-# Introduction to JQuery
+# Practice with JQuery
 
 ## Learning Competencies
 - link an external JavaScript file to an HTML file
