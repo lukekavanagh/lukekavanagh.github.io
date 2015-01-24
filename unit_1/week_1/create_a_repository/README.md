@@ -4,6 +4,6 @@ We've learned how to fork repos belonging to other folx. Now let's learn to make
 
 ## Create a Repo + Set Up Your Personal Website
 
-Follow the instructions in this [tutorial](https://pages.github.com/) to do so. ** When you clone your github pages repo down, make sure not to clone it into your forked phase zero repo!**
+Follow the instructions in this [tutorial](https://pages.github.com/) to do so. **When you clone your github pages repo down, make sure not to clone it into your forked phase zero repo!**
 
 That's it! You're done! :beer:
