@@ -25,5 +25,5 @@ Hint: If you get an error message that says something like ...
 
 All tests will log `true` in the console when they pass--`false`, otherwise.
 
-## Release 2: Push
+## Release 2: Push!
 Once you have added your code, push your solutions to GitHub.
