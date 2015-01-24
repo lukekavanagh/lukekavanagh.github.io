@@ -10,3 +10,13 @@ Last week you built up a toolkit of ruby methods. You practiced with them and ga
 6. [Research Methods](./4-research-methods)
 7. [Separate Numbers with Commas](./5-nums-commas-solo-challenge)
 8. [Create Accountability Groups](./6-acct-groups)
+
+## Submitting your work
+
+- You must complete the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u) to turn in your work.
+- The week's work is due each Sunday by 11:59pm.  
+
+**if you do not finish by the deadline:**
+
+- Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u)
