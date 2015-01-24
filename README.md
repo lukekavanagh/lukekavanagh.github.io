@@ -1,4 +1,4 @@
-# Phase Zero
+# Welcome to Phase Zero!
 
 ## [Phase Zero Handbook](./phase-0-handbook)
 
