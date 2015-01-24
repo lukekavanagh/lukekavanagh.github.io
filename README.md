@@ -1,6 +1,6 @@
 # Welcome to Phase Zero!
 
-## [Phase Zero Handbook](./phase-0-handbook)
+### [Phase Zero Handbook](./phase-0-handbook)
 
 ## Unit 1: [Terminal, Git, Front-End Web Development](./unit_1)
 
