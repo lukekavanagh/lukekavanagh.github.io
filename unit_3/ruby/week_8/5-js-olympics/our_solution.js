@@ -1,4 +1,4 @@
-// GPS 3.2 - JavaScript
+// GPS - JavaScript
 
 // YOUR FULL NAMES:
 //  1.
