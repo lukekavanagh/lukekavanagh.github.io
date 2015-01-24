@@ -1,8 +1,4 @@
-# U3.W8-9: Triangle Debugger
-
-
-# I worked on this challenge [by myself, with: ].
-
+# Triangle Debugger
 
 # Original Solution
 
@@ -46,16 +42,10 @@ end
 # * before you fix the bug, what do you think is causing the error?
 
 
-# Refactored Solution (Comment the other code to run this)
+# Your Refactored Solution (Comment the other code to run this)
 
 
 
 
 # DRIVER TESTS GO BELOW THIS LINE
 
-
-
-
-
-
-# Reflection

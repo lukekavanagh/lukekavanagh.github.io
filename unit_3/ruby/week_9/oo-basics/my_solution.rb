@@ -1,13 +1,6 @@
-# U3.W8-9: OO Basics: Student
+# OO Basics: Student
 
-
-# I worked on this challenge [by myself, with: ].
-
-# Pseudocode
-
-
-
-# Initial Solution
+# Your Solution:
 
 class Student
   attr_accessor :scores, :first_name
@@ -16,14 +9,6 @@ class Student
     #your code here
   end
 end
-
-
-# Refactored Solution
-
-
-
-
-
 
 # DRIVER TESTS GO BELOW THIS LINE
 # Tests for release 0:
@@ -43,9 +28,3 @@ p students[0].letter_grade == 'B'
 
 p linear_search(students, "Alex") == 0
 p linear_search(students, "NOT A STUDENT") == -1
-
-
-
-
-
-# Reflection

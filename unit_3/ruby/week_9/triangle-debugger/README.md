@@ -27,4 +27,4 @@ Modify the code to make it run and pass the [RSpec tests](triangle_spec.rb).
 
 ## Release 4: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 5: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 5: Push!

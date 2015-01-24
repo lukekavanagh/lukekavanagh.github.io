@@ -1,4 +1,4 @@
-#U3.W8-9: OO Basics - Student
+# OO Basics - Student
 
 ## Learning Competencies
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
@@ -29,8 +29,4 @@ Write a [binary_search](http://en.wikipedia.org/wiki/Binary_search_algorithm) me
 
 ## Release 4: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 5: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 6: [Review](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
-
+## Release 5: Push!
