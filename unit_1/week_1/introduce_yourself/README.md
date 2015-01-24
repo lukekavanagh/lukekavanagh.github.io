@@ -13,10 +13,10 @@ Accountability groups are designed to give you a core group of people in your co
 
 You should have a link to your accountability groups in your Google+ Community. Contact the people in your accountability group via email with the following information:
 
-Which challenge confused you the most this week
-Which concepts you found most interesting
-The city you currently live in
-Your preferred way of connecting with the group each week (hangout, email, in person, if possible).
+- Which challenge confused you the most this week
+- Which concepts you found most interesting
+- The city you currently live in
+- Your preferred way of connecting with the group each week (hangout, email, in person, if possible).
 
 ## AWWWWHHHHHHHHWHWHHWHHHHHH YEEEAHHHHHHHHHHHHHHHHHHHH
 You're done with this week. How do you feel? Feel free to share your thoughts on the cohort's Slack channel! If you want to tell us how you're feeling, email phase0@devacademy.co.nz
