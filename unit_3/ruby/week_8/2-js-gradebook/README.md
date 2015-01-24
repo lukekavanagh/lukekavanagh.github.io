@@ -1,6 +1,4 @@
-[Week 8 Home](../)
-
-#U3.W8: A Gradebook from Names and Scores
+# A Gradebook from Names and Scores
 
 ## Learning Competencies
 - Define local variables in JavaScript
@@ -61,8 +59,3 @@ Have `average` accept an array of integers and return the average of those integ
 Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in Release 4.
 
 ## Release 7: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
-
-## Release 8: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 9: [Review](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
