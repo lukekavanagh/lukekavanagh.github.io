@@ -1,5 +1,7 @@
 # Week 4: Intro to Ruby
 
+This week you get to start Ruby! These tutorials and exercises will help you build a basic Ruby toolkit. When working through the exercises, you may find it helpful to work with others from your cohort.
+
 ## To-Do:
 
 1. Treehouse: [Ruby Basics](http://teamtreehouse.com/library/ruby-basics)
