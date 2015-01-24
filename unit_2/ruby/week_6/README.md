@@ -1,6 +1,6 @@
 # Week 6: Classes
 
-This week, you'll take all the Ruby you've learned so far and start packaging them inside of classes. 
+This week, you'll take the Ruby you've learned so far and start packaging it inside of classes. 
 
 You have a group pairing session this week.
 
