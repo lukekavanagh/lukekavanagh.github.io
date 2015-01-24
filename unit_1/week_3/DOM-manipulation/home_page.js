@@ -1,8 +1,4 @@
-// U3.W9: DOM Manipulation Challenge
-
-
-// I worked on this challenge [by myself, with: ].
-
+// DOM Manipulation Challenge
 
 // Add your JavaScript calls to this page:
 
