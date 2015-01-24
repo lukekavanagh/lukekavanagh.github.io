@@ -2,7 +2,10 @@
 
 This week, we'll learn some basic principles + common patterns of programming. You'll start building simple javascript programs that run in the console with node. Afterwards, you'll learn how javascript is used on the web and at the end of the week, you'll revisit your github pages website and use javascript to make it interactive.
 
-You have your first group pairing session this week! Don't forget!
+**Notices:**
+- When submitting your challenges this week, make sure that you are working off your forked copy of the phase zero repo. 
+- Work smart. This means timeboxing, writing pseudocode and driver code, committing often, refactoring, reflecting, and asking for help when you need it.
+- You have your first group pairing session this week!
 
 ## To-Do
 
