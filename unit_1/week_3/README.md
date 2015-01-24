@@ -13,4 +13,6 @@ This week, we'll learn some basic principles + common patterns of programming. Y
 7. Treehouse: [Interactive Web Pages with Javascript](http://teamtreehouse.com/library/interactive-web-pages-with-javascript)
 8. Treehouse: [JQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 9. Treehouse: [Website Optimization](http://teamtreehouse.com/library/website-optimization)
-10. [Make your Website Interactive](./interactive-website) 
+11. [DOM Manipulation](./DOM-manipulation)
+12. [Practice JQuery](./jquery)
+13. [Make your Website Interactive](./interactive-website)
