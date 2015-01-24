@@ -1,32 +1,9 @@
-# U3.W8-9:
+# Fibonacci Sequence
 
-
-# I worked on this challenge [by myself, with: ].
-
-# Pseudocode
-
-
-
-# Initial Solution
+# Your code:
 
 def is_fibonacci?(num)
 
 end
 
-
-
-# Refactored Solution
-
-
-
-
-
-
 # DRIVER TESTS GO BELOW THIS LINE
-
-
-
-
-
-
-# Reflection
