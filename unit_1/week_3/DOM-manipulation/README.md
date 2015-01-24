@@ -1,6 +1,4 @@
-[JavaScript Home](../)
-
-#U3.W9: DOM Manipulation Challenge
+# DOM Manipulation Challenge
 
 ## Learning Competencies
 - Modify the appearance of the DOM using JavaScript
@@ -9,21 +7,13 @@
 
 ## Summary
 
-In this challenge, you will be using JavaScript to manipulate the Document Object Model (DOM). For more theory behind the concept of the DOM check out this document by the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM).
+In this challenge, you will be using JavaScript to manipulate the Document Object Model (DOM). 
 
 Basically, the HTML elements and properties of the browser have been wrapped in objects that you can now manipulate with JavaScript. Technically, you can use any programming language to interact with the DOM, but it is most often done using JavaScript.
 
 This allows you to manipulate the HTML and CSS along with other aspects of the browser on runtime. This interactivity is what makes websites so much more fun and useful than the static HTML that you used back when the web was born. If you were born back then, that is.
 
 JavaScript has built-in functions to select and manipulate HTML and CSS, read the following tutorials to learn the tools you need to complete the challenge. Then read the following references to learn more about DOM manipulation.
-
-Tutorials:
-- [tuts+ DOM tutorial](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134)
-- [w3schools change CSS guide](http://www.w3schools.com/js/js_htmldom_css.asp)
-
-Reference:
-- [W3schools DOM doc](http://www.w3schools.com/jsref/dom_obj_document.asp)
-- [MDN document properties](https://developer.mozilla.org/en-US/docs/Web/API/document)
 
 **REMEMBER** Everything in this challenge should be done using vanilla JavaScript (ECMAScript 5, ECMAscript 6 should be released at the end of 2014), no JQuery should be used.
 
@@ -53,6 +43,4 @@ Select all occurrences of class .release-4 and change the text-size to 2em.
 
 Take the HTML in the template.hidden and append it to the bottom of the page. Use the [Treehouse Blog Template Tag](http://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element) resource for help.
 
-## Release 6: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-Add a reflection as a comment in the [home_page.html](home_page.html) file. Limit yourself to 10-15 minutes for your reflection.
+## Release 6: Push!
