@@ -1,4 +1,4 @@
-#U3.W8-9: Triangle Debugger
+# Triangle Debugger
 
 ## Learning Competencies
 - Explain what code is doing
