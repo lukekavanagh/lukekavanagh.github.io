@@ -55,4 +55,4 @@ each step, run your code to be certain that the next test has passed.
 
 When all of the tests have passed, your final `terah` object will be logged to the console.
 
-## Release 2: Commit and push your changes! 
+## Release 2: Push!
