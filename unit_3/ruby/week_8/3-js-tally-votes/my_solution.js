@@ -1,4 +1,4 @@
-// U3.W8: Tally Votes in JavaScript
+// Tally Votes in JavaScript
 
 // These are the votes cast by each student. Do not alter these objects here.
 var votes = {
