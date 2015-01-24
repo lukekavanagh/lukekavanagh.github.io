@@ -2,6 +2,8 @@
 
 This week you get to start Ruby! These tutorials and exercises will help you build a basic Ruby toolkit. When working through the exercises, you may find it helpful to work with others from your cohort.
 
+If you need, you can review [these guidelines](../../../phase-0-handbook/submission-guidelines) on submitting challenges.
+
 ## To-Do:
 
 1. Treehouse: [Ruby Basics](http://teamtreehouse.com/library/ruby-basics)
