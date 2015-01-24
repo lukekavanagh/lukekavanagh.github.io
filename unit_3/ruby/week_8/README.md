@@ -2,6 +2,8 @@
 
 This week you'll learn about databases and SQL before moving moving into review. 
 
+## To-Do:
+
 1. Treehouse: [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 2. [JavaScript Gradebook](./2-js-gradebook)
 3. [JavaScript Tally Votes](./3-js-tally-votes)
