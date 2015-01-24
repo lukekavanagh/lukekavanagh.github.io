@@ -1,6 +1,4 @@
-[JavaScript Home](../)
-
-#U3.W9: Introduction to JQuery
+# Introduction to JQuery
 
 ## Learning Competencies
 - link an external JavaScript file to an HTML file
@@ -12,8 +10,6 @@
 
 ## Summary
 jQuery is a feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. In this challenge you will write some basic jQuery to modify a simple web page.
-
-You may want to take a look at Codecademy's [JQuery Course](http://www.codecademy.com/jQuery) before tackling this challenge.
 
 ## Releases
 
@@ -66,7 +62,4 @@ You may notice that this effect doesn't reload the original image when your mous
 ## Release 5: Have Some Fun
 There are a lot of effects you can implement with jQuery. Use the [jQuery Animate](http://api.jQuery.com/animate/) method to animate the size and border of the mascot image.
 
-## Release 6: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Additional Resources
-* [jQuery](http://jQuery.com/ )
+## Release 6: Push!
