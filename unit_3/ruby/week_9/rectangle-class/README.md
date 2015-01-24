@@ -1,4 +1,4 @@
-#U3.W8-9: Implement a Rectangle Class
+# Implement a Rectangle Class
 
 ## Learning Competencies
 - Implement a basic Ruby class and identify when to use instance variables
@@ -25,7 +25,4 @@ Translate as much of the RSpec as you can into [Driver Test Code](https://github
 
 ## Release 3: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 4: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: [Review](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 4: Push!
