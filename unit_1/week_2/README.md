@@ -13,3 +13,13 @@ Remember that personal website you set up last week with github pages? By the en
 6. Treehouse: [CSS Layout Techniques](http://teamtreehouse.com/library/css-layout-techniques)
 7. Treehouse: [Accessibility](http://teamtreehouse.com/library/accessibility)
 8. [Create Your Own Website](./create_your_own_website)
+
+## Submitting your work
+
+- You must complete the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u) to turn in your work.
+- The week's work is due each Sunday by 11:59pm.  
+
+**if you do not finish by the deadline:**
+
+- Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u)
