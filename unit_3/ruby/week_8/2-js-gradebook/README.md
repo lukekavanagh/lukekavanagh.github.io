@@ -59,3 +59,5 @@ Have `average` accept an array of integers and return the average of those integ
 Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in Release 4.
 
 ## Release 7: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
+
+## Release 8: Push!
