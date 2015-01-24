@@ -1,5 +1,4 @@
-[Week 8 Home](../)
-# U3.W8: GPS 3.2 - JavaScript
+# GPS - JavaScript Olympics
 
 **DO NOT READ THROUGH OR ATTEMPT THIS CHALLENGE BEFORE YOUR GUIDED PAIRING SESSION.**
 
@@ -45,14 +44,8 @@ Are you missing Ruby yet?
 
 Test code has been provided for you. Copy and paste it to your [my_solution.js](my_solution.js) file. Read the definition of a constructor function from this excellent (albeit old) [article](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670). This is a great article to return to when you have the time to learn more about constructor functions.
 
-
 ```javascript
 var michaelPhelps = new Athlete("Michael Phelps", 29, "swimming", "It's medicinal I swear!")
 console.log(michaelPhelps.constructor === Athlete)
 console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps.quote)
 ```
-
-
-## Release 5: Reflect
-
-Whew! Nice work, you must be exhausted, take some time to cool down and reflect individually after the session is over. Include your reflection in your [my_solution.js](my_solution.js) file. This should take about 10-15 minutes.
