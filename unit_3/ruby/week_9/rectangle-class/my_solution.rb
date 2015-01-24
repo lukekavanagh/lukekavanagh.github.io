@@ -1,12 +1,7 @@
-# U3.W8-9: Implement a Rectangle Class
+# Implement a Rectangle Class
 
 
-# I worked on this challenge [by myself, with: ].
-
-# Pseudocode
-
-
-# Initial Solution
+# Your Solution
 class Rectangle
   attr_accessor :width, :height
 
@@ -21,18 +16,8 @@ end
 
 
 
-# Refactored Solution
-
-
-
-
-
 
 # DRIVER TESTS GO BELOW THIS LINE
 
 
 
-
-
-
-# Reflection
