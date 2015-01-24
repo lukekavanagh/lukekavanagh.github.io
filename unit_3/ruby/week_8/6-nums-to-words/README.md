@@ -1,4 +1,4 @@
-#U3.W8-9: Numbers to English Words
+# Numbers to English Words
 
 ## Learning Competencies
 - Break down problems into implementable pseudocode
@@ -33,7 +33,4 @@ You definitely don't want to have to check all the possible cases by hand each t
 
 ## Release 3: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 4: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: [Review](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 4: Push!
