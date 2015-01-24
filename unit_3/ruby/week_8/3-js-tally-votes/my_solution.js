@@ -1,7 +1,5 @@
 // U3.W8: Tally Votes in JavaScript
 
-// I worked on this challenge [by myself, with:]
-
 // These are the votes cast by each student. Do not alter these objects here.
 var votes = {
   "Alex": { president: "Bob", vicePresident: "Devin", secretary: "Gail", treasurer: "Kerry" },
@@ -63,28 +61,9 @@ var officers = {
   treasurer: undefined
 }
 
-// Pseudocode
-
-
 // __________________________________________
-// Initial Solution
+// Your Solution
 
-
-
-
-
-
-
-// __________________________________________
-// Refactored Solution
-
-
-
-
-
-
-// __________________________________________
-// Reflection
 
 
 
