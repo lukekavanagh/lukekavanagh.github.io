@@ -1,7 +1,9 @@
 # Week 8: Databases + Review
 
 1. Treehouse: [Database Foundations](http://teamtreehouse.com/library/database-foundations)
-2. [JavaScript Gradebook](https://github.com/pukeko-2015/phase-0-unit-3/blob/master/week-8/3-js-gradebook)
-3. [JavaScript Tally Votes](https://github.com/pukeko-2015/phase-0-unit-3/blob/master/week-8/4-js-tally-votes)
-4. [Ruby Challenges](https://github.com/pukeko-2015/phase-0-unit-3/blob/master/week-8/5-ruby.md)
-5. [GPS 3.2 Javascript Olympics](https://github.com/pukeko-2015/phase-0-unit-3/tree/master/week-8/9-gps3-2)
+2. [JavaScript Gradebook](./2-js-gradebook)
+3. [JavaScript Tally Votes](./3-js-tally-votes)
+4. [Fibonacci Sequence](./4-fibonacci-sequence)
+5. [Fizz Buzz Super Edition](./5-fizz-buzz)
+6. [Nums to Words](./6-nums-to-words)
+7. [GPS: Javascript Olympics](./7-js-olympics)
