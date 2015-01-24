@@ -1,4 +1,4 @@
-# Unit 2
+# Unit 2: Ruby / C# Fundamentals
 
 ## [Ruby](./ruby)
 ## [C#](./cs)
