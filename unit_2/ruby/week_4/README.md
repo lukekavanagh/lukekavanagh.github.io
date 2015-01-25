@@ -2,6 +2,8 @@
 
 This week you get to start Ruby! These tutorials and exercises will help you build a basic Ruby toolkit. When working through the exercises, you may find it helpful to work with others from your cohort.
 
+In the first bit of the Ruby Foundations Tutorial, there's a video called "Installing Ruby". You can skip this video if you already have Ruby installed on your machine.
+
 If you need, you can review [these guidelines](../../../phase-0-handbook/submission-guidelines) on submitting challenges.
 
 ## To-Do:
