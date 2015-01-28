@@ -2,11 +2,13 @@
 
 Now that you know the fundamentals of web design, given enough time, you can build whatever you want. Better yet, you can host what you build for free, courtesy of github pages. 
 
-Using what you've learned, we'd like you to build the github pages website you made last week into something lovely. You can make anything you want. For real, you can make anything you want. Whatever it is -- really put your heart into it. Challenge yourself. 
+Using what you've learned, we'd like you to build the github pages website you made last week into something lovely. You can make anything you want. For real, you can make anything you want.
 
 You might find it helpful to communicate with your cohort online or in person. Maybe you learned a few css tricks and want to show the rest of the cohort. Maybe you made some horrible mistakes and want to let your cohort know not to repeat them. Maybe you want some help or some feedback. Working together on difficult problems tends to be a more meaningful experience than lone wolfing it on your own.
 
-At the end of the week, share your site on slack / google+. You might not feel done quite yet. That's okay. You'll have more time to work on it throughout phase zero.
+At the end of the week, post the link to your website in your cohort's slack channel with the tag ```*HihiPersonalWebsite*```. This way, when you type ```*HihiPersonalWebsite*``` into the channel's search bar, it will display a list of everyone else's websites. 
+
+Your website might never feel done. This is okay, just post whatever you have at the end of the week. You'll have more time to work on it later. 
 
 ## Consider the Following:
 
