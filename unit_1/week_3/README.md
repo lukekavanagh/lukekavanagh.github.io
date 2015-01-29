@@ -26,7 +26,7 @@ To run javascript files from the terminal, navigate to the file's directory and 
 
 ## Submitting your work
 
-- You must complete the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u) to turn in your work.
+- You must complete the [week's submission form](http://goo.gl/forms/y1ZOlZfiSI) to turn in your work.
 - The week's work is due each Sunday by 11:59pm.  
 
 **if you do not finish by the deadline:**
