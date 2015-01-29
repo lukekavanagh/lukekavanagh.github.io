@@ -14,7 +14,7 @@ If you need, you can review [these guidelines](../../../phase-0-handbook/submiss
 
 ## Submitting your work
 
-- You must complete the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u) to turn in your work.
+- You must complete the [week's submission form](http://goo.gl/forms/2XBsRXjl4V) to turn in your work.
 - The week's work is due each Sunday by 11:59pm.  
 
 **if you do not finish by the deadline:**
