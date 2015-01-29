@@ -14,6 +14,6 @@ Your website might never feel done. This is okay, just post whatever you have at
 
 - Proper git workflow. Clone a local copy of your github pages repo. Make small edits and commit often.
 - Explore fonts with [google fonts](https://www.google.com/fonts) 
-- Explore color schemes with [adobe kuler](https://color.adobe.com/explore/most-popular/?time=all)
+- Explore color schemes with [adobe kuler](https://color.adobe.com/explore/most-popular/?time=all) (check out the "explore" tab to see some statistically popular color schemes)
 - Make your website compatible across browsers with [normalize.css](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 - If you feel it's necessary, make your website responsive.
