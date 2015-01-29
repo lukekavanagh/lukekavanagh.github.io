@@ -11,10 +11,10 @@ Last week you started creating your own objects in Ruby. This week you will be w
 
 ## Submitting your work
 
-- You must complete the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u) to turn in your work.
+- You must complete the [week's submission form](http://goo.gl/forms/ZMVghNQx0a) to turn in your work.
 - The week's work is due each Sunday by 11:59pm.  
 
 **if you do not finish by the deadline:**
 
 - Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
-- When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u)
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/ZMVghNQx0a)
