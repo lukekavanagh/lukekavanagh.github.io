@@ -32,5 +32,5 @@ To run javascript files from the terminal, navigate to the file's directory and 
 **if you do not finish by the deadline:**
 
 - Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
-- When complete, turn it in using the [week's submission form](http://goo.gl/forms/VZsU0WKZ6u)
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/y1ZOlZfiSI)
 
