@@ -6,10 +6,17 @@ Remember that personal website you set up last week with github pages? By the en
 
 ## To-Do:
 
-1. Treehouse: [How to Make a Website](http://teamtreehouse.com/library/how-to-make-a-website)
-2. Treehouse: [HTML Forms](http://teamtreehouse.com/library/html-forms)
-3. Treehouse: [CSS Foundations](http://teamtreehouse.com/library/css-foundations)
-4. [Create Your Own Website](./create_your_own_website)
+1. Complete Treehouse's [How to Make a Website](http://teamtreehouse.com/library/how-to-make-a-website) course
+2. [Create Your Own Website](./create_your_own_website)
+
+## Highly suggested, but optional: 
+
+1. In Treehouse's [CSS Foundations](http://teamtreehouse.com/library/css-foundations) course, complete the following modules:
+  - Box Model
+  - Backgrounds + Borders 
+  - Flexbox + Multicolumn Layout
+2. Complete Treehouse's [CSS Layout Techniques](http://teamtreehouse.com/library/css-layout-techniques)
+3. Complete Treehouse's [HTML Forms](http://teamtreehouse.com/library/html-forms) course
 
 ## Submitting your work
 
