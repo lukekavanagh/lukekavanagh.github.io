@@ -18,10 +18,3 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20
 If you would like to open tabs in a new window, please either right click or hold command while you click.
 
 
-
-## Week 1: [Terminal, Git, + Github](./week_1/README.md)
-
-## Week 2: [HTML + CSS](./week_2/README.md)
-
-## Week 3: [Javascript + JQuery](./week_3)
-
