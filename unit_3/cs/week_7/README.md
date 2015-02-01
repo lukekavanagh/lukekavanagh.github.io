@@ -1,4 +1,4 @@
-# Week 6: Object-Oriented Design
+# Week 7: Object-Oriented Design
 
 
 Last week you started creating your own objects in C#. This week you will be working with something called Object-Oriented Design. 
@@ -12,7 +12,7 @@ Those are just examples, and while they are valid it's always a good idea to do 
 
 ## Fetch the curriculum changes!
 
-It's time to fetch changes from the phase-0-unit-2 master repo to get the newly-released curriculum. Make sure you are in the master branch of your local clone.
+It's time to fetch changes from the phase-0-version-2.0 master repo to get the most-updated curriculum. Make sure you are in the master branch of your local clone.
 Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 ## Challenges
@@ -21,20 +21,18 @@ Check where you are in your terminal first. DO NOT try fetching these changes in
 2. [Creating a BoggleBoard Class](2-BoggleBoard)
 3. [Creating a PezDispenser Class - SOLO CHALLENGE](3-PezDispenser-solo-challenge)
 4. [Refactoring for Code Readability](4-refactoring)
-5. [Technical Blog](5-technical-blog.md) 
-6. [Cultural Blog](6-cultural-blog.md)
-7. [BONUS Creating a Car Class from User Stories](7-BONUS-CarClass)
-8. [GPS 2.2](8-gps2-2) - **Do not attempt until your Guided Pairing Session**
+5. [BONUS Creating a Car Class from User Stories](7-BONUS-CarClass)
+6. [GPS 2.2](8-gps2-2) - **Do not attempt until your Guided Pairing Session**
 
 ## Submitting your work
 
-- You must complete the [week's submission form](http://goo.gl/forms/mAF7FVgjb1) to turn in your work.
+- You must complete the [week's submission form](http://goo.gl/forms/ZMVghNQx0a) to turn in your work.
 - The week's work is due each Sunday by 11:59pm.  
 
 **if you do not finish by the deadline:**
 
 - Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
-- When complete, turn it in using the [week's submission form](http://goo.gl/forms/mAF7FVgjb1)
+- When complete, turn it in using the [week's submission form](http://goo.gl/forms/ZMVghNQx0a)
 
 ## Remember the Unit Expectations!
 
