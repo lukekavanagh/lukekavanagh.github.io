@@ -2,7 +2,7 @@
 
 #U3.W8: CS
 
-Select ONE of the challenges in the [cs](../cs) directory to complete.
+Select ONE of the challenges in the [cs](./cs) directory to complete.
 
 In week 9 you will be asked to do at least 2 additional challenges. If you have more time in week 8, feel free to do more now - maybe even try to collect them all!
 
