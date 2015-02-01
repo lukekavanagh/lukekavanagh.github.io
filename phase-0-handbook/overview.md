@@ -20,7 +20,7 @@ While this is a predominately remote learning phase, we have a community of coac
 Phase 0 is divided into 3 Units and each week you will be receiving a set of challenges and tasks to complete. The broad topics we cover in Phase 0 are:
 
 Unit 1: Git, HTML/CSS, Javascript   
-Unit 2: Language fundementals 
+Unit 2: Language fundementals   
 Unit 3: Object Oriented programming, Databases and Review
 
 Each Monday we’ll send out the curriculum for the week. 
@@ -43,8 +43,8 @@ For a little more info on our slack-usage, check out our [Slack intro guide](sla
 ##### Google-group 
 This is essentially like a mailing list for your cohort and is used to grant permissions to the student drive - home to digital copies of many of the books you will want to read.
 
-##### Your @devacademy.ac.nz email address 
-We will set everyone up with a .ac.nz email address. Note however, this is not like a normal email address - Any email sent to your devacademy.ac.nz address will be automatically forwarded to your personal email address. While you can't send email from it, you can use it to sign up to student discounts.  
+##### Your firstname.lastname@devacademy.ac.nz email address 
+We will set everyone up with a .ac.nz email address. Note however, this is not like a normal email address - Any email sent to your firstname.lastname@devacademy.ac.nz address will be automatically forwarded to your personal email. While you can't send email from it, you can use it to sign up to student discounts.  
 
 </br>  
 </br>  
