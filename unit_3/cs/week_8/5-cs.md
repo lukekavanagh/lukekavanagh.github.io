@@ -1,5 +1,3 @@
-[Week 8](./)
-
 #U3.W8: CS
 
 Select ONE of the challenges in the [cs](./cs) directory to complete.
