@@ -1,5 +1,4 @@
 # Calculate the Mode
-**Pairing Challenge**
 
 ## Learning Competencies
 - Break a large problem down into smaller steps
@@ -40,7 +39,7 @@ Make sure your code still passes the tests!
 ## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 5: Commit and Push!
-If you want feedback, continue using Slack and G+ to request it!
+If you want feedback, continue using Slack to request it!
 
 ## Release 6: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**
