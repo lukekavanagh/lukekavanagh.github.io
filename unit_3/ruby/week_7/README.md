@@ -7,7 +7,7 @@ Last week you started creating your own objects in Ruby. This week you will be w
 2. [Pez Dispenser](./2-PezDispenser)
 3. [Bingo Board Part Two](./3-bingo)
 4. [Refactoring for Code Readability](./4-refactoring)
-5. [GPS Virus Predictor](./5-virus-predictor)
+5. [Virus Predictor](./5-virus-predictor)
 
 ## Submitting your work
 

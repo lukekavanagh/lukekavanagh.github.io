@@ -2,10 +2,12 @@
 
 This week, you will learn about and fall in love with Git, Github, and the concept of version control and collaborative coding. Enjoy!
 
+Team Treehouse delivers content through courses, tracks and achievements. A course and track is comprised of a number of achievements. During phase-0, you may be asked to either complete a selection of achievements or an entire course. 
+
 ## To-Do:
 
-1. Complete "Getting Started with the Console" in Treehouse's [Console Foundations](http://teamtreehouse.com/library/console-foundations) Course
-2. Complete Treehouse's [Git Basics](http://teamtreehouse.com/library/git-basics) Course
+1. Complete achievement "Getting Started with the Console" in Treehouse's [Console Foundations ](http://teamtreehouse.com/library/console-foundations) Course. 
+2. Complete all achievements in Treehouse's [Git Basics](http://teamtreehouse.com/library/git-basics) Course.
 3. Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Sublime Text](http://www.sublimetext.com/)
 4. [Practice Git](./git_practice) 
 5. [Create a Repository](./create_a_repository) 
@@ -19,3 +21,13 @@ This week, you will learn about and fall in love with Git, Github, and the conce
   
 - Complete an extension request by emailing your facilitator <phase0@devacademy.co.nz>. (There are a limited number of extensions available during phase-0)
 - When complete, turn it in using the [week's submission form](http://goo.gl/forms/E9llM4sYbU)
+
+--------------------------  
+  
+## Remember your Unit Requirements!
+- We don't expect you to peer-pair during week 1, but please rate feedback.  
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. (You need to rate 20 pieces of feedback per unit)
+- Sign up for Guided Pairing Session (GPS) 1.1 and 1.2.
+
+## Additional recommended activity 
+- You have access to the [student library of books](https://drive.google.com/open?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&authuser=0) on google drive. If you feel like some light reading, try Chris Pine's [Learn to Program](https://drive.google.com/open?id=0B5aB0OHeInzgOWE3dF9tMzByVVk&authuser=0)  

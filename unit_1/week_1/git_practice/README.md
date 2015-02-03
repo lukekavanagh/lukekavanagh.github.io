@@ -2,17 +2,17 @@
 
 At this point, you have a good understanding of git and the command line. You've also installed sublime and git on your computer and have a Github account. Now, we're going to practice Git/Github a little to solidify what you've learned.
 
-## Fork the Phase Zero Repo 
+## Fork the Phase-0 Repo 
 
 Go to the [root](../../../../..) of this repo. At the top of the page, there's a fork button. Press it. You'll be prompted to choose a repository to fork to. Choose yours. You should now have a copy of our repo in your github account. 
 
-## Clone your Copy of the Phase Zero Repo
+## Clone your Copy of the Phase-0 Repo
 
 Now, you're going to clone (aka make a local copy of) your forked repo.
 
-First, go to your forked Phase Zero Repo on Github. At the bottom of the right sidebar, you'll find a little HTTPS clone url. Copy this url to your clipboard. 
+First, go to your forked Phase-0 Repo on Github. At the bottom of the right sidebar, you'll find a little HTTPS clone url. Copy this url to your clipboard. 
 
-Now, using the command line, navigate to wherever you want to store your local copy. Feeling lazy? Desktop it is!
+Now, using the command line, navigate to wherever you want to store your local copy. 
 
 Once you're in the directory, run the following command: ``` git clone the_url_that_you_copied ```. Now you have a local copy of the repo! This means that you can view all of its contents at any time, even if you don't have internet. This also means that you can open and edit any of the contents with your favorite text editor. How nice.
 

@@ -1,8 +1,4 @@
-# U2.W5: The Bakery Challenge (GPS 2.1)
-
-# Your Names
-# 1)
-# 2)
+# The Bakery Challenge
 
 #You should not change this file. Please paste your solution into the my_solution.rb file.
  

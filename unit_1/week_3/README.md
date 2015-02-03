@@ -7,7 +7,6 @@ To run javascript files from the terminal, navigate to the file's directory and 
 **Notices:**
 - When submitting your challenges this week, make sure that you are working off your forked copy of the phase zero repo. 
 - Work smart. This means timeboxing, writing pseudocode and driver code, committing often, refactoring, reflecting, and asking for help when you need it.
-- You have your first group pairing session this week!
 
 ## To-Do
 
@@ -16,7 +15,7 @@ To run javascript files from the terminal, navigate to the file's directory and 
 3. Download [Node.js](http://nodejs.org/download/) and review [these guidelines](../../phase-0-handbook/submission-guidelines) on submitting challenges
 4. [Javascript Variables and Object Types](./js-variables-objects)
 5. [Manipulating Javascript Objects](./manipulating-js-objects)
-6. [GPS: Model a Grocery List](./grocery-list)
+6. [Model a Grocery List](./grocery-list)
 7. Treehouse: [Interactive Web Pages with Javascript](http://teamtreehouse.com/library/interactive-web-pages-with-javascript)
 8. Treehouse: [JQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 9. Treehouse: [Website Optimization](http://teamtreehouse.com/library/website-optimization)
