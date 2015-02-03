@@ -12,6 +12,7 @@ Team Treehouse delivers content through courses, tracks and achievements. A cour
 4. [Practice Git](./git_practice) 
 5. [Create a Repository](./create_a_repository) 
 6. [Introduce Yourself](./introduce_yourself)
+7. [Describe Git](my_reflection.md)
 
 ## Submitting your work
 - You must complete the [week's submission form](http://goo.gl/forms/E9llM4sYbU) to turn in your work.
