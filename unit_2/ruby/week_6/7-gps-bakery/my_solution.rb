@@ -1,13 +1,6 @@
-# Bakery Challenge GPS
+# Bakery Challenge
 
-# I worked on this challenge with: 
-
-
-
-
-
-
-# Our Refactored Solution
+# Refactored Solution
 
 
 
