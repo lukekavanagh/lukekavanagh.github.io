@@ -1,6 +1,6 @@
 # Unit 1: Terminal, Git, + Front-End Web Dev
 
-Begin by clicking on the weeks link below. Don't worry too much right now about any other links on this page. There will be time later to explore them. Each Monday we will release the curriculum for the week.  
+Begin by clicking on the link pertaining to the current week. 
 
 #### Week 1: [Terminal, Git, + Github](./week_1/README.md)
 #### Week 2: [HTML + CSS](./week_2/README.md)
