@@ -2,7 +2,7 @@
 
 This week, you will learn about and fall in love with Git, Github, and the concept of version control and collaborative coding. Enjoy!
 
-Team Treehouse delivers content through courses, tracks and achievements. A course and track is comprised of a number of achievements. During phase-0, you may be asked to either complete a selection of achievements or an entire course. 
+Team Treehouse delivers content through courses, tracks and achievements. A course and track is comprised of a number of achievements. At times you may be asked to complete either a selection of achievements or an entire course. 
 
 ## To-Do:
 
