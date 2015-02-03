@@ -1,8 +1,4 @@
-// GPS - JavaScript
-
-// YOUR FULL NAMES:
-//  1.
-//  2.
+// JavaScript Olympics
 
 
 // 0. Warm Up
