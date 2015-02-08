@@ -7,11 +7,16 @@ Through this week we'll be using the Labs extensively, so the first thing you'll
 * Username: devacademy
 * Password: iamnice
 
-On the left hand side navigate to labs and you will see a new page with 5 sections in it. These sections represent the key principles of programming in any language, once you learn them in C# you will be able to pick them out in almost all others.
+On the left hand side navigate to labs and you will see a new page with 5 sections in it. These sections represent the key principles of programming in any language, once you learn them in C# you will be able to see them in almost all others.
 
-Except for the first section, each contains a list of exercises to work through, be sure to time box these as you can easily get stuck on a challenge and become frustrated and lost because you made a syntax error. Agile is the process of iterative development - think of this as iterative learning, if you are efficient you will have time to come back to a given problem.
+Except for the first section, each contains a list of exercises to work through, be sure to time box these as you can easily get stuck on a challenge, becoming frustrated and lost because you made a syntax error. Agile is the process of iterative development - think of this as iterative learning, if you are efficient you will have time to come back to a given problem.
 
-Unfortunately the NET REPL does not save your code - so if you navigate away from the page you will loose your work - as such you should open the corresponding solution file in the exercise folder or a LinqPad and treat it as your primary code base.
+Unfortunately the NET REPL does not save your code - if you navigate away from the page you will loose your work. As such you should open the corresponding solution file in the exercises folder or a LinqPad file and treat it as your primary code base. (LinqPad has the benefit of checking your code for errors and printing Console.WriteLines() to its own output window).
+
+##The Goal
+Test Suite Passed - if your logic is sound and syntax ok, you will be rewarded with green text!
+
+Test Suite Failed - but with less errors than before! It is unlikely you will pass them all in one go, but failing less can only be good (you will see something like . . . F . F . . indicating 2 out of 8 tests failed).
 
 ##Errors
 There are 4 different errors that can happen and they can be grouped like this
