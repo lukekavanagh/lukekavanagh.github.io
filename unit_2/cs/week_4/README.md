@@ -1,53 +1,42 @@
 # Week 4: Introduction to C-Sharp
 
-<!-- Week 4's material is not ready yet!
+This weeks you get to play with C Sharp! (C#). The linked tutorials, labs and exercises will introduce you to the language and start to help you develop your C# utility belt for tackling the gravest of programming challenges.
 
-We will release it with changes at least by the Friday before the week begins. -->
+When working through the material it may be helpful to talk to fellow students about what you have learned, work with another student on a problem or compare and discuss solutions you have completed. Reach out on slack and post links to code in stypie.
 
-It's time to fetch changes from the phase-0-version-2.0 master repo. Make sure you are in the master branch of your forked phase-0-version-2.0 repo.  Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+This week will have you using three tools
+- [NET REPL](http://net-repl.enspiral.info/), a [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) made by EDA
+- [PluralSight](http://www.pluralsight.com/), online videos
+- [LinqPad](http://www.linqpad.net/), swiss army knife of features - but for now our sandbox environment. If you have not yet downloaded it please do so
 
-C# Labs
--------
+Note the coarse used to be solely delivered via NET REPL. This is slowly being updated - in the meantime please follow the instructions below.
 
-For many challenges in the C# stream of Phase 0 you will be using a custom made [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) environment, called NET REPL.
+##How to use the tools - !important
+[NET REPL](how-to/net-repl.md)
+[PluralSight](../../../phase-0-handbook/student-resources.md)
+[LinqPad](how-to/linqpad.md)
+[Write a "my_solution"](how-to/my-solution.md)
 
-Our custom NET REPL also contains an instructional section with associated exercises, called Labs.
-
-Through this week we'll be using the Labs extensively, so the first thing you'll want to to this week is head over to Enspiral's [NET REPL](http://net-repl.enspiral.info) 
-
-* Username: devacademy
-* Password: iamnice
-
-On the left hand side, navigate to [Labs](http://net-repl.enspiral.info/labs) and read through all the material, but do not yet attempt any of the exercises.
-
-Once you're familiar with the core concepts, you can start going through the challenges and review specific chapters of the Labs to complete the exercises.
-
-## Challenges:
-
-1. [Numbers, Letters, and Variable Assignment](1-numbers-letters)
-2. [Methods](2-methods)
-3. [Flow Control](3-flow-control)
-4. [Arrays, Iterators, and Hashes](4-arrays)
-5. [GPS 1.2](9-gps1-2) **Do not look at this until your guided pairing session!**
-8. [Accountability Groups](10-accountability-groups.md)
+##To-Do
+1. Watch the following videos on [C# from scratch](http://www.pluralsight.com/courses/csharp-from-scratch)
+	- Introduction
+	- Fundamentals
+	- Truth
+2. Work through labs 1,2 & 3 on the [REPL](http://net-repl.enspiral.info/labs) - note: the valid triangle exercise is pretty tough, make sure you time box it. You can always come back to it.
+3. Watch [Program Flow](http://www.pluralsight.com/courses/csharp-from-scratch)
+4. Work through lab 4 on the [REPL](http://net-repl.enspiral.info/labs) - note: the tests use the methods and check what is returned!
+5. Watch [Arrays & Collections](http://www.pluralsight.com/courses/csharp-from-scratch)
+6.  Work through lab 5 on the [REPL](http://net-repl.enspiral.info/labs)
+7. Optional - watch some more vids :)
+[Channel9](http://channel9.msdn.com/)
+[MSVirtualAcademy](http://www.microsoftvirtualacademy.com/training-courses/c-fundamentals-for-absolute-beginners?prid=ch9courselink)
 
 ## Submitting your work
 
 - You must complete the [week's submission form](http://goo.gl/forms/2XBsRXjl4V) to turn in your work.
-- The week's work is due each Sunday by 11:59pm.  
+- The week's work is due each Sunday by 11:59pm.
 
 **if you do not finish by the deadline:**
 
 - Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
 - When complete, turn it in using the [week's submission form](http://goo.gl/forms/2XBsRXjl4V)
-
-## Working through the challenges
-Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. You should also try to figure out a fix -- it will help your markdown skills!
-
-## Remember the Unit Expectations!
-
-Expectation | Times per Unit | Times per Week
-------------|----------|---------
-[Peer-Pair](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 4 | >= 2
-[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
-Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
