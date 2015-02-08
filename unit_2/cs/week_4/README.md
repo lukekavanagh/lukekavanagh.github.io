@@ -12,10 +12,10 @@ This week will have you using three tools
 Note the coarse used to be solely delivered via NET REPL. This is slowly being updated - in the meantime please follow the instructions below.
 
 ##How to use the tools - !important
-[NET REPL](how-to/net-repl.md)
-[PluralSight](../../../phase-0-handbook/student-resources.md)
-[LinqPad](how-to/linqpad.md)
-[Write a "my_solution"](how-to/my-solution.md)
+[NET REPL](how-to/net-repl.md)  
+[PluralSight](../../../phase-0-handbook/student-resources.md)  
+[LinqPad](how-to/linqpad.md)  
+[Write a "my_solution"](how-to/my-solution.md)  
 
 ##To-Do
 1. Watch the following videos on [C# from scratch](http://www.pluralsight.com/courses/csharp-from-scratch)
@@ -27,8 +27,9 @@ Note the coarse used to be solely delivered via NET REPL. This is slowly being u
 4. Work through lab 4 on the [REPL](http://net-repl.enspiral.info/labs) - note: the tests use the methods and check what is returned!
 5. Watch [Arrays & Collections](http://www.pluralsight.com/courses/csharp-from-scratch)
 6.  Work through lab 5 on the [REPL](http://net-repl.enspiral.info/labs)
-7. Optional - watch some more vids :)
-[Channel9](http://channel9.msdn.com/)
+7. Optional - watch some more vids :)  
+[PluralSight](http://www.pluralsight.com/)  
+[Channel9](http://channel9.msdn.com/)  
 [MSVirtualAcademy](http://www.microsoftvirtualacademy.com/training-courses/c-fundamentals-for-absolute-beginners?prid=ch9courselink)
 
 ## Submitting your work

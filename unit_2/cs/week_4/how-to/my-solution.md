@@ -25,7 +25,7 @@ This should be the Psuedocode implemented off memory in code - you will most lik
 ##First Refactor
 The goal here is to make whatever code you wrote in the initial run with no compile errors, ie fix syntax errors. Once you have it compiling, it will most likely fail a unit test. Implement changes to the code to try and get the tests passing. Feel free to Google as much as you like at this point - there is only one guide: don't use code you don't understand!
 
-##When Stuck - Cheat!!!
+##When Stuck! - Cheat!!!
 Well its not really cheating - during your programming career you will always be looking at others code and learning from it. So take a look at the provided solution and use it to inform you in how to fix your code so that you pass all the tests. Don't spend to much time on this, your code may be so different that it doesn't help. Also note some of the solutions are written using items you may not have come across - in this case have a google and see if you can understand the solution. Secondly reach out on slack to see what other people have done.
 
 Take a look at the provided solution file [my_solution.cs](./my_solution.cs)
