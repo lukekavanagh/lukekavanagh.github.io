@@ -1,6 +1,6 @@
 # Week 4: Introduction to C-Sharp
 
-Before starting this week, please fetch the changes from 
+Before starting this week, please fetch changes from the main phase-0-version-2.0 repo. If you've forgotten how, check out these [instructions](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
 
 This weeks you get to play with C Sharp! (C#). The linked tutorials, labs and exercises will introduce you to the language and start to help you develop your C# utility belt for tackling the gravest of programming challenges.
 
