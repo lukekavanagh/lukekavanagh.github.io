@@ -2,7 +2,7 @@
 
 This week, you will learn about and fall in love with Git, Github, and the concept of version control and collaborative coding. Enjoy!
 
-Team Treehouse delivers content through courses, tracks and achievements. A course and track is comprised of a number of achievements. During phase-0, you may be asked to either complete a selection of achievements or an entire course. 
+Team Treehouse delivers content through courses, tracks and achievements. A course and track is comprised of a number of achievements. At times you may be asked to complete either a selection of achievements or an entire course. 
 
 ## To-Do:
 
@@ -12,6 +12,7 @@ Team Treehouse delivers content through courses, tracks and achievements. A cour
 4. [Practice Git](./git_practice) 
 5. [Create a Repository](./create_a_repository) 
 6. [Introduce Yourself](./introduce_yourself)
+7. [Describe Git](my_reflection.md)
 
 ## Submitting your work
 - You must complete the [week's submission form](http://goo.gl/forms/E9llM4sYbU) to turn in your work.
@@ -23,11 +24,6 @@ Team Treehouse delivers content through courses, tracks and achievements. A cour
 - When complete, turn it in using the [week's submission form](http://goo.gl/forms/E9llM4sYbU)
 
 --------------------------  
-  
-## Remember your Unit Requirements!
-- We don't expect you to peer-pair during week 1, but please rate feedback.  
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. (You need to rate 20 pieces of feedback per unit)
-- Sign up for Guided Pairing Session (GPS) 1.1 and 1.2.
 
 ## Additional recommended activity 
 - You have access to the [student library of books](https://drive.google.com/open?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&authuser=0) on google drive. If you feel like some light reading, try Chris Pine's [Learn to Program](https://drive.google.com/open?id=0B5aB0OHeInzgOWE3dF9tMzByVVk&authuser=0)  
