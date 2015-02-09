@@ -1,5 +1,7 @@
 # Week 4: Introduction to C-Sharp
 
+Before starting this week, please fetch the changes from 
+
 This weeks you get to play with C Sharp! (C#). The linked tutorials, labs and exercises will introduce you to the language and start to help you develop your C# utility belt for tackling the gravest of programming challenges.
 
 When working through the material it may be helpful to talk to fellow students about what you have learned, work with another student on a problem or compare and discuss solutions you have completed. Reach out on slack and post links to code in stypie.
@@ -13,7 +15,7 @@ Note the course used to be solely delivered via NET REPL. This is slowly being u
 
 ##How to use the tools - !important
 [NET REPL](how-to/net-repl.md)  
-[PluralSight](../../../phase-0-handbook/student-resources.md)  
+[PluralSight](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/pluralsight.md)  
 [LinqPad](how-to/linqpad.md)  
 [Write a "my_solution"](how-to/my-solution.md)  
 
