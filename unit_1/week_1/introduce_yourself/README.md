@@ -1,7 +1,9 @@
 # Introduce Yourself
 
 ## Intro Email 
+
 Each cohort has it's own email address, for example nativebird-2015@devacademy.co.nz. Email your cohort with the subject "self introduction" or reply to the main thread you received. In your email, include your:
+
 - Name
 - Location
 - Why you're attending EDA

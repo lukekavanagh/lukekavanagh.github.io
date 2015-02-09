@@ -1,7 +1,5 @@
 # Virus Predictor
 
-# I worked on this challenge with: .
-
 # EXPLANATION OF require_relative
 #
 #

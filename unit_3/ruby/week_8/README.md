@@ -10,7 +10,7 @@ This week you'll learn about databases and SQL before moving moving into review.
 4. [Fibonacci Sequence](./4-fibonacci-sequence)
 5. [Fizz Buzz Super Edition](./5-fizz-buzz)
 6. [Nums to Words](./6-nums-to-words)
-7. [GPS: Javascript Olympics](./7-js-olympics)
+7. [Javascript Olympics](./7-js-olympics)
 
 ## Submitting your work
 

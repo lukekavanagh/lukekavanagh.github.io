@@ -2,8 +2,6 @@
 
 This week, you'll take the Ruby you've learned so far and start packaging it inside of classes. 
 
-You have a group pairing session this week.
-
 If you need, you can review [these guidelines](../../../phase-0-handbook/submission-guidelines) on submitting challenges.
 
 ## To-Do:
@@ -14,7 +12,7 @@ If you need, you can review [these guidelines](../../../phase-0-handbook/submiss
 4. [Cipher](./4-cipher-challenge)
 5. [Bingo Board](./5-bingo-board)
 6. [Validate Credit Card](./6-validate-credit-card)
-7. [GPS Bakery Challenge](./7-gps-bakery)
+7. [Bakery Challenge](./7-gps-bakery)
 
 ## Submitting your work
 

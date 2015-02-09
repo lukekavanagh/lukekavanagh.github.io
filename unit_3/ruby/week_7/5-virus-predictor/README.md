@@ -1,4 +1,4 @@
-# Virus Predictor Pair Challenge
+# Virus Predictor
 
 ## Learning Competencies
 - Identify and explain what code is doing

@@ -1,4 +1,4 @@
-# GPS: Model a Grocery List
+# Model a Grocery List
 
 ## Learning Competencies:
 - Create a Javascript object constructor and implement it with a basic script
@@ -8,7 +8,7 @@
 In this challenge, you'll model a grocery list as a javascript object. 
 
 ## Release 0: User Stories
-With your partner, talk about what you want your grocery list to do. Start each statement with "As a user, I want to ..." These are what we call "user stories."
+Think about what you want your grocery list to do. Start each statement with "As a user, I want to ..." These are what we call "user stories."
 
 ## Release 1: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 Based on your user stories, what does your object constructor look like? What are its attributes? What are its methods? For each method, what are your expected inputs and outputs? Write some pseudocode outlining your object constructor.
@@ -22,6 +22,6 @@ In your driver code, you will first create a grocery list with your constructor.
 Create your initial solution. You'll know that you're done when your driver code outputs the results you expect. 
 
 ## Release 4: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
-With your partner, review the code. Is it DRY? Are the names good?
+Review the code. Is it DRY? Are the names good?
 
 ## Release 5: Push your changes to Github!

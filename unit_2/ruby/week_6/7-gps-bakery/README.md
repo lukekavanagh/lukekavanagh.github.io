@@ -1,7 +1,5 @@
 # The Bakery Challenge
 
-**This is a Guided Pairing Session challenge for Unit 2. Please do not look at the challenge until your Guided Pairing Session.**
-
 ## Learning Competencies
 - Identify and explain what code is doing
 - Identify and rewrite repetitive code
@@ -27,11 +25,10 @@ Read through the code, indenting as you go. After each block, write a comment to
 When you get to code that is difficult to read, seems redundant, or badly executed, pause and refactor it. Make sure your changes don't break any of the tests! Refactor with future expandability in mind. You may decide to add some features later!
 
 ## Release 4: Reflect
-When the session is over, reflect on your learning.
+When done, reflect on your learning.
 
 ## Release 5: Submit your challenge!
-Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!
-
+Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file.
 
 ## Release 6: (Optional)
 (In case you didn't get enough of the delicious horrible-code)
