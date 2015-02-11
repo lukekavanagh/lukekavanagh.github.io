@@ -17,7 +17,7 @@ Research and test these methods out. You may want to play around with them in IR
 You will also want to know a little bit about **destructive and non-destructive methods**. Destructive methods change the original data permanently. Non-Destructive methods return new data (like a new array or hash) based on what you're doing, but the original data remains the same. For each of these, you will be asked to use destructive or non-destructive methods, so please read the instructions carefully.
 
 **Please note, the driver code included will ONLY work when you have each person's solution and if you use a similar way of solving the problem.** Read the link on Driver Test Code so you understand what it's doing and then feel free to modify it in this challenge to make it work for your group.
-You can read about driver code [in the handbook](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/driver-code.md) 
+You can read about driver code [in the handbook](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md) 
 
 ## Release 0:
 Each person will need to select a challenge to solve. This does not need to be done in any order.
@@ -121,7 +121,7 @@ Push your solution to GitHub!
 You may want to email your accountability group your solution (and driver test code if you modified it).
 
 ## Release 3: Reflect
-Use the [reflection guidelines](https://github.com/Enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) and also discuss the following in the reflection section of the [my_solution](my_solution.rb) file:
+Use the [reflection guidelines](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) and also discuss the following in the reflection section of the [my_solution](my_solution.rb) file:
 
 What did you learn about researching and explaining your research to others?
 
