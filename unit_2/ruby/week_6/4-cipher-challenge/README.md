@@ -22,9 +22,9 @@ Write comments next to or above each line with an explanation.
 Really focus on breaking each step down. You want to understand every line (except for 68 and 69). You do not need to understand each part of these lines because they use regular expressions that look for one or more of any digit. We aren't asking you to learn regular expressions in Phase 0, so you don't need to refactor them.
 
 ## Release 2: Write Tests
-Use [driver test code](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/driver-code.md). What will always be the same using this cipher? What changes? Write driver test code based on what you discover.
+Use [driver test code](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md). What will always be the same using this cipher? What changes? Write driver test code based on what you discover.
 
-## Release 3: [Refactor (by rewriting) the initial solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 3: [Refactor (by rewriting) the initial solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
   - Clean up the variable names.
   - The original code used a hard-coded hash to do the encryption. Can you create a simple algorithm instead? The original shift was by 4 characters. What would happen if it was changed to 10? Would your class be able to handle that change easily?
 
