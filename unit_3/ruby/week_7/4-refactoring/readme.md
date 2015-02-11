@@ -17,11 +17,11 @@ Paste the original unrefactored code in your my_solution.rb, and as you refactor
 - Minimizes need for comments because the code tells you what it is doing
 - Code is formatted with proper indentation for optimal readability
 
-## Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 ## Release 1: Comment the code
 Comment each chunk of code in the original solution
 
-## Release 2: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) the solution for readability
+## Release 2: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) the solution for readability
 
 ## Release 3: Push your solution to Github
