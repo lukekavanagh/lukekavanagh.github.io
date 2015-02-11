@@ -12,7 +12,7 @@ To run javascript files from the terminal, navigate to the file's directory and 
 
 1. Treehouse: [Intro to Programming](http://teamtreehouse.com/library/introduction-to-programming)
 2. Treehouse: [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
-3. Download [Node.js](http://nodejs.org/download/) and review [these guidelines](../../phase-0-handbook/submission-guidelines) on submitting challenges
+3. Download [Node.js](http://nodejs.org/download/) and review [these guidelines](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/solo-challenges.md) on submitting challenges
 4. [Javascript Variables and Object Types](./js-variables-objects)
 5. [Manipulating Javascript Objects](./manipulating-js-objects)
 6. [Model a Grocery List](./grocery-list)
