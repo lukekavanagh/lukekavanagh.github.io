@@ -12,7 +12,7 @@ In this challenge you will write two methods that add elements of an array. In t
 Remember to commit early and often!
 
 ## Release 0: `total` pseudocode
-In this release you will write [pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md) for a method `total` which takes an `Array` of numbers and calculates the sum of all the numbers.
+In this release you will write [pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md) for a method `total` which takes an `Array` of numbers and calculates the sum of all the numbers.
 
 The code should work as follows:
 
@@ -24,7 +24,7 @@ total([-100, 100])  # => 0
 
 To write pseudocode, first identify the input and output. What will the method receive as an argument (input)? What will be returned (output)? Then outline the steps you'll need to implement to solve the problem using `Array` methods (you can view these in [ruby-docs for arrays](http://www.ruby-doc.org/core-2.0/Array.html)).
 
-## Release 1: Translate Pseudocode into an [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: Translate Pseudocode into an [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 Translate your pseudocode into code.
 
@@ -37,7 +37,7 @@ in the directory where the file is located in your terminal.
 
 If the tests for total pass, move on to the next release. If not, go back and fix the code.
 
-## Release 3: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution.
+## Release 3: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution.
 
 We directed you to use `Array` methods in your first solution, but there are many powerful methods built in to the Enumerable module that can do a lot of that work for you. Navigate to the [ruby-docs for Enumerables](http://ruby-doc.org/core-2.0/Enumerable.html). Once you're there, scroll down to see if any of these methods would be useful to do what you want to do. The docs are difficult to read, so start getting practice now.
 
@@ -55,21 +55,21 @@ sentence_maker(["i", "want", "to", "go", "to", "the", "movies"])
 # => "I want to go to the movies."
 ```
 
-## Release 5: Write your [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 5: Write your [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 Once your solution for `sentence_maker` passes the tests, move on to the next release.
 
-## Release 6: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 6: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
 Are there any handy methods you can use to shorten the logic in this challenge? See if you can use any of the methods in either Array or Enumerable to help you. Make sure your code is readable!
 
-## Release 7:  [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 7:  [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 Include your reflection in your `my_solution` file. Refer to the Reflect Link for guidelines to guide your reflection. Remember to limit your reflections to 10-15 minutes.
 
 ## Release 8: Commit and Push
 When you feel confident with your solution, push your changes.
 
-## Release 9: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+## Release 9: [Review](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 
 Reading other's code is really important for your growth as a developer. You can find other people's code using the instructions in the link above, or by looking through Slack. Read through a couple of different solutions and give the authors feedback using issues on GitHub.
 
