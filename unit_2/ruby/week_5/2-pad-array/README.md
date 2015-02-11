@@ -46,18 +46,18 @@ We took you through the coding process in the last challenge. From now on, we wi
 
 ## Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 1: Write your [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: Write your [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 ## Release 2: Run the tests
 Once your code passes the tests, move on to refactoring.
 
-## Release 3: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
+## Release 3: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 Make sure your code still passes the tests!
 
-## Release 4: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 4: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 5: Commit and Push!
 If you want feedback, continue using Slack and G+ to request it!
 
-## Release 6: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+## Release 6: [Review](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**
