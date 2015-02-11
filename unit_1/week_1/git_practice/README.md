@@ -47,7 +47,7 @@ Run" ```git status``` to confirm that your changes were committed
 Run: ```git push origin meowtown``` to push your commits up to the meowtown branch on github.
 
 ## Create a Pull Request + Merge
-If you take a look at your forked phase 0 repo on github, you should see a little notification containing your recently pushed branches. There should be a green button that says "Compare and Pull Request". Click this button. You will be redirected to a page where you can add comments. Add some if you like, and when you're done click the "Create Pull Request" button. 
+If you take a look at your forked phase 0 repo on github, you should see a little notification containing your recently pushed branches. There should be a green button that says "Compare and Pull Request". Click this button. You will be redirected to a new page. At the top of this page, there will be dropdown bar for "base fork" and a dropdown bar for "head fork". You're going to want to switch the "base fork" from "dev-academy-phase0/phase-0-version-2.0" to "your-github-username/phase-0-version-2.0". The page will reload, and some comment boxes will appear. Add some if you want, and when you're done click the "Create Pull Request" button.
 
 You've just created a pull request! When you do this, anyone else working on the repo is notified. If you were working with other people, they would review your changes, comment on them, maybe edit your work a bit further, etc. At some point all of you would reach a consensus, agreeing that the changes should be merged into master. At this point, someone would click the "Merge Pull Request" button. 
 
