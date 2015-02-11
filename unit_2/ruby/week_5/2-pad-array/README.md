@@ -44,7 +44,7 @@ That is, `pad([1,2,3], 3)` should return `[1,2,3]`.
 
 We took you through the coding process in the last challenge. From now on, we will use these links to outline the coding process for each challenge. It is required that you complete each non-optional release.
 
-## Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 ## Release 1: Write your [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
