@@ -2,7 +2,7 @@
 
 Last week you built up a toolkit of ruby methods. You practiced with them and gained a good intuition of how they work, what they're used for, and so on. This week you'll use that toolkit to solve some more complex problems.
 
-If you need, you can review [these guidelines](../../../phase-0-handbook/submission-guidelines) on submitting challenges.
+If you need, you can review [these guidelines](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/submission-guidelines.md) on submitting challenges.
 
 1. [Add It Up](./1-add-it-up)
 2. [Pad An Array](./2-pad-array)
