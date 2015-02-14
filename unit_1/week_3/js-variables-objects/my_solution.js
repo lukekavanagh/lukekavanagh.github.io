@@ -62,13 +62,13 @@ assert(
 )
 
 assert(
-  members[0] === "John",
-  "The first element in the value of members should be 'John'.",
+  members[0] === "Mary",
+  "The first element in the value of members should be 'Mary'.",
   "8. "
 )
 
 assert(
-  members[3] === "Mary",
-  "The fourth element in the value of members should be 'Mary'.",
+  members[3] === "John",
+  "The fourth element in the value of members should be 'John'.",
   "9. "
 )
