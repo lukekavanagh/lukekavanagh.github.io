@@ -12,7 +12,7 @@ Now that you have learned a bit about JavaScript, it's time to use that knowledg
 ## Release 0: Test-Driven Development
 If you look at the bottom of your [my_solution.js](my_solution.js) file, you'll see a function `assert`. These are tests that will help drive your development. In the developer world, basing your code off of tests is called Test-Driven Development (TDD) and is popular with many developers. 
 
-The tests will tell you what code to write next. Run the code and read the message explaining why the code couldn't run or why the test failed. The first step is to make the first test pass. Then make the second test pass, and so on.
+The tests will tell you what code to write next. Run your code with node and read the message explaining why the code couldn't run or why the test failed. The first step is to make the first test pass. Then make the second test pass, and so on.
 
 ## Releases
 
