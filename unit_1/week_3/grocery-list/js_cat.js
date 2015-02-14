@@ -1,4 +1,4 @@
-//oversimplified model of a cat
+// oversimplified model of a cat
 function Cat() {
 	this.stomach = [];
 	this.hungry = true;
@@ -17,6 +17,8 @@ function Cat() {
 	};
 }
 
+
+// driver code for cat
 var cat = new Cat();
 cat.meow();
 cat.eat('avocado');
