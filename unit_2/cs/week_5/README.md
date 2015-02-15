@@ -7,13 +7,24 @@ You are not expected to understand how unit tests work at this stage, but it doe
 ## Challenge Format
 Once you're happy with your bit of code, please paste it into the my_solution.cs at each appropriate step (pseudo-code, initial code, refactor, etc).
 
+
 ##To-Do
-1. [Numbers in range](exercises/15-numbers-in-range)
-2. [Calculate Median](exercises/14-calculate-median)
-3. [Find Mode](exercises/17-find-mode)
-4. [Pad an Array](exercises/18-pad-array)
-5. [Separate Numbers with Commas](exercises/19-nums-commas-solo-challenge)
-6. [Cipher Challenge](exercises/20-cipher-challenge)
+Note: Some videos may be going over things you have already seen and some will be introducing concepts for next week. Feel free to explore other videos and post your favourites to slack.
+
+1. Watch [Exceptions](http://www.pluralsight.com/courses/csharp-from-scratch)
+2. Challenge [Numbers in range](exercises/15-numbers-in-range)
+2. Watch [The basics of .NET and C#](http://www.pluralsight.com/courses/dotnet-csharp-tutorial)
+2. Challenge [Calculate Median](exercises/14-calculate-median)
+3. Watch [Types and Assemblies](http://www.pluralsight.com/courses/csharp-fundamentals-csharp5)
+3. Challenge [Find Mode](exercises/17-find-mode)
+4. Watch [Delegates](http://www.pluralsight.com/courses/csharp-from-scratch-part2)
+4. Challenge [Pad an Array](exercises/18-pad-array)
+5. Watch [LINQ](http://www.pluralsight.com/courses/csharp-from-scratch-part2)
+5. Challenge [Separate Numbers with Commas](exercises/19-nums-commas-solo-challenge)
+6. Watch [Extensibility and Polymorphism](http://www.pluralsight.com/courses/csharp-from-scratch-part2)
+7. Watch [Classes and Objects in C#](http://www.pluralsight.com/courses/csharp-fundamentals-csharp5)
+8. Watch [Introduction (especially the "Hello, Visual Studio")](http://www.pluralsight.com/courses/csharp-fundamentals-csharp5)
+6. Review [Cipher Challenge](exercises/20-cipher-challenge)
 
 ## Submitting your work
 
