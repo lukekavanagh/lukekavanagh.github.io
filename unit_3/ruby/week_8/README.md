@@ -1,6 +1,8 @@
 # Week 8: Databases + Review
 
-This week you'll learn about databases and SQL before moving moving into review. 
+This week you'll learn about databases and SQL before moving moving into review.
+
+Before starting this week's material, be sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
 
 ## To-Do:
 
