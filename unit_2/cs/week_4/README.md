@@ -1,8 +1,16 @@
-# Week 4: Introduction to C-Sharp
+#Introduction to C-Sharp
 
 This weeks you get to play with C Sharp! (C#). The linked tutorials, labs and exercises will introduce you to the language and start to help you develop your C# utility belt for tackling the gravest of programming challenges.
 
+Each week has a focus:
+- Week 4: Fundamentals
+- Week 5: Algorithms
+- Week 6: Classes
+- Week 7: Objects
+
 When working through the material it may be helpful to talk to fellow students about what you have learned, work with another student on a problem or compare and discuss solutions you have completed. Reach out on slack and post links to code in stypie.
+
+##Week 4
 
 This week will have you using three tools
 - [NET REPL](http://net-repl.enspiral.info/), a [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) made by EDA
@@ -12,10 +20,10 @@ This week will have you using three tools
 Note the coarse used to be solely delivered via NET REPL. This is slowly being updated - in the meantime please follow the instructions below.
 
 ##How to use the tools - !important
-[NET REPL](how-to/net-repl.md)  
-[PluralSight](../../../phase-0-handbook/student-resources.md)  
-[LinqPad](how-to/linqpad.md)  
-[Write a "my_solution"](how-to/my-solution.md)  
+[NET REPL](how-to/net-repl.md)
+[PluralSight](../../../phase-0-handbook/student-resources.md)
+[LinqPad](how-to/linqpad.md)
+[Write a "my_solution"](how-to/my-solution.md)
 
 ##To-Do
 1. Watch the following videos on [C# from scratch](http://www.pluralsight.com/courses/csharp-from-scratch)
@@ -27,15 +35,15 @@ Note the coarse used to be solely delivered via NET REPL. This is slowly being u
 4. Work through lab 4 on the [REPL](http://net-repl.enspiral.info/labs) - note: the tests use the methods and check what is returned!
 5. Watch [Arrays & Collections](http://www.pluralsight.com/courses/csharp-from-scratch)
 6.  Work through lab 5 on the [REPL](http://net-repl.enspiral.info/labs)
-7. Optional - watch some more vids :)  
-[PluralSight](http://www.pluralsight.com/)  
-[Channel9](http://channel9.msdn.com/)  
+7. Optional - watch some more vids :)
+[PluralSight](http://www.pluralsight.com/)
+[Channel9](http://channel9.msdn.com/)
 [MSVirtualAcademy](http://www.microsoftvirtualacademy.com/training-courses/c-fundamentals-for-absolute-beginners?prid=ch9courselink)
 
 ## Submitting your work
 
 - You must complete the [week's submission form](http://goo.gl/forms/2XBsRXjl4V) to turn in your work.
-- The week's work is due each Sunday by 11:59pm.
+- The week's work is due by midnight on Sunday. (Otherwise it turns into a pumpkin)
 
 **if you do not finish by the deadline:**
 
