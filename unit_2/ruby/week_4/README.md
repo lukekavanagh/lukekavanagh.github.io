@@ -6,7 +6,7 @@ In the first bit of the Ruby Foundations Tutorial, there's a video called "Insta
 
 If you need, you can review [these guidelines](../../../phase-0-handbook/submission-guidelines) on submitting challenges.
 
-Also, before starting this week, make sure to fetch any curriculum changes from the main phase-0-version-2.0 repo. If you've forgotten how, check out these [instructions](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
+Before starting this week's material, be sure to [fetch any curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
 
 ## To-Do:
 
