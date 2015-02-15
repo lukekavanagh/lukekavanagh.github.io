@@ -22,7 +22,7 @@ Now you're going to make some edits to your local copy.
 
 First, cd into the git_practice folder in week_1 of unit_1, and run: ```git checkout -b "meowtown"```. This will create a new branch called "meowtown". Now you can make edits without affecting the master branch of our repo. The master branch is only for stuff which is totally complete, tested, reviewed, etc. We will eventually merge our branch into master when we're all done. 
 
-Great. Now, create a file called MEOWTOWN.md in the git_practice directory, and open it in Sublime. If you're on mac/linux, you can use the following command: ```subl MEOWTOWN.md```. If you're on windows, open the file with Sublime manually.
+Great. Now, create a file called MEOWTOWN.md in the git_practice directory, and open it in Sublime. If you're on mac/linux, you can use the following command: ```subl MEOWTOWN.md```. If that doesn't work, or if you're on windows, open the file with Sublime manually.
 
 In Sublime, add the following to your MEOWTOWN.md file:
 ``` 
