@@ -10,7 +10,7 @@ This week, we'll learn some basic principles + common patterns of programming. Y
 
 ## To-Do
 
-1. Treehouse: [Intro to Programming](http://teamtreehouse.com/library/introduction-to-programming) and [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations) or **Do** Codecademy: [Javascript](http://www.codecademy.com/en/tracks/javascript)
+1. **Watch** Treehouse: [Intro to Programming](http://teamtreehouse.com/library/introduction-to-programming) and [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations) or **Do** Codecademy: [Javascript](http://www.codecademy.com/en/tracks/javascript)
 2. Download [Node.js](http://nodejs.org/download/) and review [these guidelines](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/submission-guidelines.md) on submitting challenges
 3. [Javascript Variables and Object Types](./js-variables-objects)
 4. [Manipulating Javascript Objects](./manipulating-js-objects)
