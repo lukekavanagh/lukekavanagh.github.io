@@ -1,18 +1,19 @@
-##Week 4
+##Week 5: Algorythems
 
+This week you will be working on writing command-line programs focusing on algorithms and basic testing. Remember to run your work in the NetRepl environment to have your code compiled and run against the unit tests for the challenge. This may mean copy pasting your code from a different dev environment, eg DotNetFiddle or LinqPad
 
-This week you will be working on writing command-line programs focusing on algorithms and basic testing. Challenges will all be written in the NET REPL environment, which will compile, run and test your code against specific tests that have been written for each challenge. You are not expected to understand how test units work at this stage, but it doesn't hurt to start becoming familiar with them and you can view them on each exercise page by pressing the Show/Hide Tests button at the bottom.
+You are not expected to understand how unit tests work at this stage, but it doesn't hurt to start becoming familiar with them and you can view them on each exercise page by pressing the Show/Hide Tests button at the bottom.
 
 ## Challenge Format
-
-For most of the following challenges you'll be using NET REPL.
-NET REPL will allow you to write, execute and test code within a web environment. Once you're happy with your bit of code, please paste it into the my_solution.cs at each appropriate step (pseudo-code, initial code, refactor, etc).
+Once you're happy with your bit of code, please paste it into the my_solution.cs at each appropriate step (pseudo-code, initial code, refactor, etc).
 
 ##To-Do
-1.
-
-
-
+1. [Numbers in range](exercises/15-numbers-in-range)
+2. [Calculate Median](exercises/14-calculate-median)
+3. [Find Mode](exercises/17-find-mode)
+4. [Pad an Array](exercises/18-pad-array)
+5. [Separate Numbers with Commas](exercises/19-nums-commas-solo-challenge)
+6. [Cipher Challenge](exercises/20-cipher-challenge)
 
 ## Submitting your work
 
@@ -23,16 +24,3 @@ NET REPL will allow you to write, execute and test code within a web environment
 
 - Complete an extension request by emailing your facilitator. (There are a limited number of extensions available during phase-0)
 - When complete, turn it in using the [week's submission form](http://goo.gl/forms/2XBsRXjl4V)
-
-
-# Week 5: Algorithms
-
-## Challenges
-1. [Mathy Challenges](1-mathy-intro)
-2. [Separate Numbers with Commas SOLO CHALLENGE](4-nums-commas-solo-challenge)
-3. [Pad an Array](5-pad-array)
-4. [Cipher Challenge](6-cipher-challenge) *Pair with a person in your cohort*
-
-## Working through the Challenges
-
-You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the 'my_solution.cs' files or the spec files.

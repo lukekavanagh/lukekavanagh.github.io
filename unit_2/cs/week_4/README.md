@@ -10,7 +10,13 @@ Each week has a focus:
 
 When working through the material it may be helpful to talk to fellow students about what you have learned, work with another student on a problem or compare and discuss solutions you have completed. Reach out on slack and post links to code in stypie.
 
-##Week 4
+##Setup your CS dev machine  
+These instructions assume you are working on a windows 7 or 8 machine. If you are working on a Mac, Linux or Windows Vista machine you will need to deploy your own development machine. We suggest using [Xamarin](http://xamarin.com/platform) and [Mono](http://www.mono-project.com/).
+
+###[Setup](how-to/cs-windows-instructions.md)
+
+
+##Week 4: The Fundimentals
 
 This week will have you using three tools
 - [NET REPL](http://net-repl.enspiral.info/), a [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) made by EDA
@@ -20,10 +26,10 @@ This week will have you using three tools
 Note the coarse used to be solely delivered via NET REPL. This is slowly being updated - in the meantime please follow the instructions below.
 
 ##How to use the tools - !important
-[NET REPL](how-to/net-repl.md)
-[PluralSight](../../../phase-0-handbook/student-resources.md)
-[LinqPad](how-to/linqpad.md)
-[Write a "my_solution"](how-to/my-solution.md)
+####[NET REPL](how-to/net-repl.md)  
+####[PluralSight](../../../phase-0-handbook/student-resources.md)  
+####[LinqPad](how-to/linqpad.md)  
+####[Write a "my_solution"](how-to/my-solution.md)  
 
 ##To-Do
 1. Watch the following videos on [C# from scratch](http://www.pluralsight.com/courses/csharp-from-scratch)
