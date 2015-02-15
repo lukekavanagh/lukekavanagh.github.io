@@ -5,6 +5,7 @@ This week, we'll learn some basic principles + common patterns of programming. Y
 **To run javascript files from the terminal, navigate to the file's directory and run: ```node name_of_your_file.js```**
 
 **Notices:**
+- Before starting this week's material, please [fetch any curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
 - When submitting your challenges this week, make sure that you are working off your forked copy of the phase zero repo. 
 - Work smart. This means timeboxing, writing pseudocode and driver code, committing often, refactoring, reflecting, and asking for help when you need it.
 
