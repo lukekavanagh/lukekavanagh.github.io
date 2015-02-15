@@ -4,6 +4,8 @@ This week, you'll take the Ruby you've learned so far and start packaging it ins
 
 If you need, you can review [these guidelines](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/submission-guidelines.md) on submitting challenges.
 
+Before starting this week's material, be sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
+
 ## To-Do:
 
 1. [Die Class Pt. I](./1-die-class) 
