@@ -1,6 +1,8 @@
 # Week 7: Object-Oriented Design
 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. 
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design.
+
+Before starting this week's material, be sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md). 
 
 ## To-Do
 1. [Drawer Debugger](./1-drawer-debugger)
