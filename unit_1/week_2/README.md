@@ -4,7 +4,7 @@ This week, you'll be completing a lot of treehouse tutorials. These tutorials ar
 
 Remember that personal website you set up last week with github pages? By the end of the week, you'll know how to build that up into something quite good. Have fun!
 
-Before starting the material for this week, make sure to [fetch any curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md). 
+Before starting the material for this week, make sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md). 
 
 ## To-Do:
 
