@@ -18,14 +18,14 @@ die.roll # returns a random number between 1 and 6
 
 If we pass `Die.new` a number less than `1`, we should raise an `ArgumentError`.  This is done using the `raise` keyword.  See the [ArgumentError documentation](http://apidock.com/ruby/ArgumentError) for how to do this.
 
-## Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 1: Write your [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: Write your [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 ## Release 2: Run the tests
 Once your code passes the tests, move on to refactoring.
 
-## Release 3: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
+## Release 3: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 Make sure your code still passes the tests!
 
 ## Release 4: Push!

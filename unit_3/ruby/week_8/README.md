@@ -1,16 +1,17 @@
 # Week 8: Databases + Review
 
-This week you'll learn about databases and SQL before moving moving into review. 
+This week you'll learn about databases and SQL before moving moving into review.
+
+Before starting this week's material, be sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
 
 ## To-Do:
 
 1. Treehouse: [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 2. [JavaScript Gradebook](./2-js-gradebook)
 3. [JavaScript Tally Votes](./3-js-tally-votes)
-4. [Fibonacci Sequence](./4-fibonacci-sequence)
-5. [Fizz Buzz Super Edition](./5-fizz-buzz)
-6. [Nums to Words](./6-nums-to-words)
-7. [Javascript Olympics](./7-js-olympics)
+4. [Fizz Buzz Super Edition](./5-fizz-buzz)
+5. [Nums to Words](./6-nums-to-words)
+6. [Javascript Olympics](./7-js-olympics)
 
 ## Submitting your work
 

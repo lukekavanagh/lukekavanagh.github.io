@@ -2,7 +2,9 @@
 
 This week, you'll take the Ruby you've learned so far and start packaging it inside of classes. 
 
-If you need, you can review [these guidelines](../../../phase-0-handbook/submission-guidelines) on submitting challenges.
+If you need, you can review [these guidelines](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/submission-guidelines.md) on submitting challenges.
+
+Before starting this week's material, be sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
 
 ## To-Do:
 

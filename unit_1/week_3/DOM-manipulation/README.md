@@ -7,7 +7,7 @@
 
 ## Summary
 
-In this challenge, you will be using JavaScript to manipulate the Document Object Model (DOM). 
+In this challenge, you will be using JavaScript to manipulate the Document Object Model (DOM).
 
 Basically, the HTML elements and properties of the browser have been wrapped in objects that you can now manipulate with JavaScript. Technically, you can use any programming language to interact with the DOM, but it is most often done using JavaScript.
 
@@ -19,13 +19,15 @@ JavaScript has built-in functions to select and manipulate HTML and CSS, read th
 
 # Releases
 
+After each change you make, refresh your html file in the browser to verify that your changes have worked. 
+
 ## Release 0: Add a Class
 
-Add the class "done" to the #release-0 div.
+Add the class "done" to the #release-0 div. To verify that your code has worked, open the html file in the browser, inspect element, and look at the div to see if the class has been added.
 
 ## Release 1: Set the Display Property
 
-Set the display property of the #release-1 div to none.
+Set the display property of the #release-1 div to none. This should make the div disappear.
 
 ## Release 2: Change Text
 
@@ -37,10 +39,10 @@ Add the background color #b163a3 to the #release-3 div. #b163a3 was [Pantone's](
 
 ## Release 4: Modify the Text Size
 
-Select all occurrences of class .release-4 and change the text-size to 2em.
+Select all occurrences of class .release-4 and change the text-size to 2em. You should see the font-size increase for multiple elements on the page.
 
 ## Release 5: Append HTML
 
-Take the HTML in the template.hidden and append it to the bottom of the page. Use the [Treehouse Blog Template Tag](http://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element) resource for help.
+Take the HTML in the template.hidden and append it to the bottom of the page. Use the [Treehouse Blog Template Tag](http://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element) resource for help. If you've done everything right, something nice should appear at the bottom of the page.
 
 ## Release 6: Push!

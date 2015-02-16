@@ -17,16 +17,16 @@ This is a creative challenge and you can make it as easy or difficult as you wou
 - If one person were to leave the cohort, how would the accountability groups change?
 - How do you decide when you're done? You'll need to decide. This is much more challenging than you probably think, especially since there are no pre-written tests.
 
-#### Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+#### Release 0: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-#### Release 1: Write your [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+#### Release 1: Write your [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-#### Release 2: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
+#### Release 2: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 
-#### Release 3: [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+#### Release 3: [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 #### Release 4: Commit and Push!
 If you want feedback, hit your slack cohort channel. 
 
-#### Release 5: [Review](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+#### Release 5: [Review](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 *Optional but HIGHLY encouraged!*

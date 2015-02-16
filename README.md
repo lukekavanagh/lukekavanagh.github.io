@@ -1,6 +1,6 @@
 # Welcome to Phase Zero!
 
-Phase-0 is divided into units, and each unit is 3 weeks long. Challenges are due each Sunday before 11.59pm; on Monday, a new weeks worth of work will be released. If you are unable to complete the weeks work of worth, you can apply for an extension by emailing your facilitator. 
+Phase-0 is divided into units, and each unit is 3 weeks long. Challenges are due each Sunday before 11.59pm and on Monday, a new weeks worth of work will be released. 
 
 The broad topics we cover in Phase 0 are:
 
@@ -11,6 +11,8 @@ The broad topics we cover in Phase 0 are:
 ##### Unit 3: [Object Oriented Design, Databases, + Review](./unit_3)
 
 --------------------	
+### Course Delivery:
+Course content is delivered through a combination of Team Treehouse for HTML/CSS, Javascript, Databases, Ruby and Pluralsight for C#. Instructions for signing up / accessing Treehouse and Pluralsight can be found in the [student handbook](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/readme.md)
 
 ### To Do: 
 * Keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms to gauge whether we are giving too much, the right amount, or not enough work each week.

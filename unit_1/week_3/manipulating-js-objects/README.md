@@ -9,6 +9,8 @@
 
 In this challenge you will work with the following JavaScript object that has been assigned to the variable `terah`. You will have to complete each task without modifying the object itself. That means everything must be done outside of the curly braces.
 
+Hint: You'll find object constructor notation very useful for this exercise.
+
 ```javascript
 var terah = {
   name: "Terah",

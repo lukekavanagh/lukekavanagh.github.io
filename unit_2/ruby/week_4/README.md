@@ -6,6 +6,8 @@ In the first bit of the Ruby Foundations Tutorial, there's a video called "Insta
 
 If you need, you can review [these guidelines](../../../phase-0-handbook/submission-guidelines) on submitting challenges.
 
+Before starting this week's material, be sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
+
 ## To-Do:
 
 1. Treehouse: [Ruby Basics](http://teamtreehouse.com/library/ruby-basics)

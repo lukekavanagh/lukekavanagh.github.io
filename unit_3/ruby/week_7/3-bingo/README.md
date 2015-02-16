@@ -1,4 +1,4 @@
-# Create a Bingo Scorer [SOLO CHALLENGE](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/solo-challenges.md)
+# Create a Bingo Scorer
 
 ## Learning Competencies
 - Create, access and traverse nested data structures
@@ -37,16 +37,16 @@ A bingo in this exercise is a vertical horizontal or diagonal line of 5 x's.
    ['x', 70, 54, 80, 83]]
    # also a diagonal bingo
 ```
-## Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 Outline the logic necessary to check the bingo board for horizontal, vertical and diagonal bingos. Make sure your pseudocode is specific enough to be easily translated into code.
 
-## Release 1: Write your [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: Write your [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Translate your pseudocode into code.
 
 ## Release 2: Test
-Write [Driver Test Code](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/driver-code.md) to test the different win cases. Try to find some board cases that break your code (false positive/negatives). This will allow you to refactor with confidence.
+Write [Driver Test Code](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md) to test the different win cases. Try to find some board cases that break your code (false positive/negatives). This will allow you to refactor with confidence.
 
-## Release 3: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 3: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
 ## Release 4: Push your solution to Github
 

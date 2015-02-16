@@ -1,11 +1,13 @@
 # Model a Grocery List
 
 ## Learning Competencies:
-- Create a Javascript object constructor and implement it with a basic script
+- Create a Javascript object constructor function and implement it with a basic script
 - Identify the attributes and methods of an object based on user stories
 
 ## Summary
-In this challenge, you'll model a grocery list as a javascript object. 
+In this challenge, you'll model a grocery list as a javascript object. You'll create an object constructor function with the necessary properties and methods of a grocery list. Then you'll instantiate a grocery list object with your object constructor function. Finally, you'll write driver code to test the functionality of your object.
+
+If you're feeling confused, check out this [example](./js_cat.js).
 
 ## Release 0: User Stories
 Think about what you want your grocery list to do. Start each statement with "As a user, I want to ..." These are what we call "user stories."

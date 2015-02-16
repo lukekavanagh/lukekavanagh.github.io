@@ -2,6 +2,8 @@
 
 This week is entirely review. At the end of the week you'll have a chance to update your github pages website and review any front-end web dev concepts you may have forgotten.
 
+Before starting this week's material, be sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
+
 1. [OO-Basics](./oo-basics)
 2. [Triangle-Debugger](./triangle-debugger)
 3. [Reverse Words](./reverse-words)

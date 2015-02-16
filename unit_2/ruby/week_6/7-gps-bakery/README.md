@@ -33,7 +33,7 @@ Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file.
 ## Release 6: (Optional)
 (In case you didn't get enough of the delicious horrible-code)
 
-Expand the program for the customer based on their requests. Use the methodology you've been practicing. (Write [Driver Test Code](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/driver-code.md), [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md), [Write your initial solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md), [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)).
+Expand the program for the customer based on their requests. Use the methodology you've been practicing. (Write [Driver Test Code](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md), [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md), [Write your initial solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md), [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)).
 
 
 Hi! I am a small bakery owner who has a Ruby program that calculates the

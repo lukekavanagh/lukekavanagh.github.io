@@ -22,7 +22,7 @@ Now you're going to make some edits to your local copy.
 
 First, cd into the git_practice folder in week_1 of unit_1, and run: ```git checkout -b "meowtown"```. This will create a new branch called "meowtown". Now you can make edits without affecting the master branch of our repo. The master branch is only for stuff which is totally complete, tested, reviewed, etc. We will eventually merge our branch into master when we're all done. 
 
-Great. Now, create a file called MEOWTOWN.md in the git_practice directory, and open it in Sublime. If you're on mac/linux, you can use the following command: ```subl MEOWTOWN.md```. If you're on windows, open the file with Sublime manually.
+Great. Now, create a file called MEOWTOWN.md in the git_practice directory, and open it in Sublime. If you're on mac/linux, you can use the following command: ```subl MEOWTOWN.md```. If that doesn't work, or if you're on windows, open the file with Sublime manually.
 
 In Sublime, add the following to your MEOWTOWN.md file:
 ``` 
@@ -47,7 +47,7 @@ Run" ```git status``` to confirm that your changes were committed
 Run: ```git push origin meowtown``` to push your commits up to the meowtown branch on github.
 
 ## Create a Pull Request + Merge
-If you take a look at your forked phase 0 repo on github, you should see a little notification containing your recently pushed branches. There should be a green button that says "Compare and Pull Request". Click this button. You will be redirected to a page where you can add comments. Add some if you like, and when you're done click the "Create Pull Request" button. 
+If you take a look at your forked phase 0 repo on github, you should see a little notification containing your recently pushed branches. There should be a green button that says "Compare and Pull Request". Click this button. You will be redirected to a new page. At the top of this page, there will be dropdown bar for "base fork" and a dropdown bar for "head fork". You're going to want to switch the "base fork" from "dev-academy-phase0/phase-0-version-2.0" to "your-github-username/phase-0-version-2.0". The page will reload, and some comment boxes will appear. Add some if you want, and when you're done click the "Create Pull Request" button.
 
 You've just created a pull request! When you do this, anyone else working on the repo is notified. If you were working with other people, they would review your changes, comment on them, maybe edit your work a bit further, etc. At some point all of you would reach a consensus, agreeing that the changes should be merged into master. At this point, someone would click the "Merge Pull Request" button. 
 

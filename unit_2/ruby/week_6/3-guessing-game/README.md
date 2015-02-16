@@ -52,17 +52,17 @@ end
 puts "#{last_guess} was correct!"
 ```
 
-## Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 1: [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 Make sure your code passes the tests before moving on.
 
 ## Release 2: Translate the tests
 
-Translate at least 3 of the tests into [Driver Test Code](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/driver-code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it.
+Translate at least 3 of the tests into [Driver Test Code](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it.
 
-## Release 3: [Refactor](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
+## Release 3: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 
 Make sure your code still passes the tests!
 

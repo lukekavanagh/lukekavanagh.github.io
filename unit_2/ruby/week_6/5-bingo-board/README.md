@@ -1,4 +1,4 @@
-# A Nested Array to Model a Bingo Board [Solo Challenge](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/solo-challenges.md)
+# A Nested Array to Model a Bingo Board [Solo Challenge](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
 - Break down problems into implementable pseudocode
@@ -44,19 +44,19 @@ bingo_board = [[47, 44, 71, 8, 88],
 
 ## Releases
 
-## Release 0: [Pseudocode](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 Break these goals down into implementable pseudocode.
 
-## Release 1: [Initial Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: [Initial Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Translate your pseudocode into code. The initialize method has been written for you, but you will need others to complete the challenge.
 
-## Release 2: [Driver Code](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/driver-code.md)
+## Release 2: [Driver Code](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
 This class randomly generates a board each time you create a new BingoBoard Object, so you need to think creatively about how to test your outputs. You may hard coding the board to write tests if you need to for the initial solution. When you refactor use the random board for your tests.
 
 
-## Release 3: [Refactored Solution](https://github.com/enspiral-dev-academy/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 3: [Refactored Solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Refactor your initial solution. Run the driver tests often to determine when you break something.
 
 ## Release 4: Publish
