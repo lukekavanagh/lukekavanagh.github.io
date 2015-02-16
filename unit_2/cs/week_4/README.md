@@ -27,7 +27,7 @@ Note the coarse used to be solely delivered via NET REPL. This is slowly being u
 
 ##How to use the tools - !important
 ####[NET REPL](how-to/net-repl.md)  
-####[PluralSight](../../../phase-0-handbook/student-resources.md)  
+####[PluralSight](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/pluralsight.md)
 ####[LinqPad](how-to/linqpad.md)  
 ####[Write a "my_solution"](how-to/my-solution.md)  
 
