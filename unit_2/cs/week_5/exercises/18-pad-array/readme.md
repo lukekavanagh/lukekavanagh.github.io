@@ -44,7 +44,7 @@ That is, `PadOriginal(new int[] {1,2,3}, 3)` should return `{1,2,3}`.
 If there is no padding element specified, it should pad the ArrayList with 0.
 
 ToDo:
-1. Open the exercise and carefully read the instructions![relevant exercise](http://net-repl.enspiral.info/exercises/29).  
+1. Open the exercise and carefully read the instructions! [relevant exercise](http://net-repl.enspiral.info/exercises/29).  
 2. [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md).  
 3. Add and commit your changes.  
 4. Write your best Initial Solution (Remember this is off of memory).  
