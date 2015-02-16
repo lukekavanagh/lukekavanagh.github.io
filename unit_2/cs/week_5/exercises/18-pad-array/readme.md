@@ -44,12 +44,12 @@ That is, `PadOriginal(new int[] {1,2,3}, 3)` should return `{1,2,3}`.
 If there is no padding element specified, it should pad the ArrayList with 0.
 
 ToDo:
-1. Open the exercise and carefully read the instructions![relevant exercise](http://net-repl.enspiral.info/exercises/29).
-2. [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md).
-3. Add and commit your changes.
-4. Write your best Initial Solution (Remember this is off of memory).
-5. Refactor the initial solution to pass the tests in NetRepl.
-6. Peek at the solution and if you dont understand something put a post on slack and start a discussion.
-7. Add, commit and push your code up to GitHub.
+1. Open the exercise and carefully read the instructions![relevant exercise](http://net-repl.enspiral.info/exercises/29).  
+2. [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md).  
+3. Add and commit your changes.  
+4. Write your best Initial Solution (Remember this is off of memory).  
+5. Refactor the initial solution to pass the tests in NetRepl.  
+6. Peek at the solution and if you dont understand something put a post on slack and start a discussion.  
+7. Add, commit and push your code up to GitHub.  
 
 Pro-Tip: When you come across a something you don't know give yourself a set amount of time to research it, do 3-5 minutes of googling and start with "msdn + Thing in question"
