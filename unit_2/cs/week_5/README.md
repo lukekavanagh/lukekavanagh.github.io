@@ -14,7 +14,7 @@ Note: Some videos may be going over things you have already seen and some will b
 1. Watch [Exceptions](http://www.pluralsight.com/courses/csharp-from-scratch)
 2. Challenge [Numbers in range](exercises/15-numbers-in-range)
 2. Watch [The basics of .NET and C#](http://www.pluralsight.com/courses/dotnet-csharp-tutorial)
-2. Challenge [Calculate Median](exercises/14-calculate-median)
+2. Challenge [Calculate Median](exercises/16-calculate-median)
 3. Watch [Types and Assemblies](http://www.pluralsight.com/courses/csharp-fundamentals-csharp5)
 3. Challenge [Find Mode](exercises/17-find-mode)
 4. Watch [Delegates](http://www.pluralsight.com/courses/csharp-from-scratch-part2)
