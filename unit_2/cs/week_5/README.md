@@ -1,4 +1,4 @@
-##Week 5: Algorythems
+##Week 5: Algorithms
 
 This week you will be working on writing command-line programs focusing on algorithms and basic testing. Remember to run your work in the NetRepl environment to have your code compiled and run against the unit tests for the challenge. This may mean copy pasting your code from a different dev environment, eg DotNetFiddle or LinqPad
 
