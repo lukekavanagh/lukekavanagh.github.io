@@ -21,7 +21,7 @@ Median for the ArrayList [-100,100] should result in '0.0'
 ```
 
 ToDo:
-1. Open the exercise and carefully read the instructions![relevant exercise](http://net-repl.enspiral.info/exercises/16).  
+1. Open the exercise and carefully read the instructions! [relevant exercise](http://net-repl.enspiral.info/exercises/16).  
 2. [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md).  
 3. Add and commit your changes.  
 4. Write your best Initial Solution (Remember this is off of memory).  
