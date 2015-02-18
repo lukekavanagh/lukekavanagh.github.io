@@ -10,10 +10,10 @@ Each week has a focus:
 
 When working through the material it may be helpful to talk to fellow students about what you have learned, work with another student on a problem or compare and discuss solutions you have completed. Reach out on slack and post links to code in stypie.
 
-##Setup your CS dev machine  
+##Setup your CS dev machine - if you haven't already
 These instructions assume you are working on a windows 7 or 8 machine. If you are working on a Mac, Linux or Windows Vista machine you will need to deploy your own development machine. We suggest using [Xamarin](http://xamarin.com/platform) and [Mono](http://www.mono-project.com/).
 
-###[Setup](how-to/cs-windows-instructions.md)
+###[Setup](../../../phase-0-handbook/cs-setup/README.md)
 
 
 ##Week 4: The Fundimentals
