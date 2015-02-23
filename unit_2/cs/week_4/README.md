@@ -13,7 +13,7 @@ When working through the material it may be helpful to talk to fellow students a
 ##Setup your CS dev machine - if you haven't already
 These instructions assume you are working on a windows 7 or 8 machine. If you are working on a Mac, Linux or Windows Vista machine you will need to deploy your own development machine. We suggest using [Xamarin](http://xamarin.com/platform) and [Mono](http://www.mono-project.com/).
 
-###[Setup](../../../../../../phase-0-handbook/cs-setup/README.md)
+###[Setup](https://github.com/dev-academy-phase0/phase-0-handbook/tree/master/cs-setup)
 
 
 ##Week 4: The Fundimentals
