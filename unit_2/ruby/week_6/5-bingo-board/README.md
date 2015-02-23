@@ -1,4 +1,4 @@
-# A Nested Array to Model a Bingo Board [Solo Challenge](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/solo-challenges.md)
+# A Nested Array to Model a Bingo Board
 
 ## Learning Competencies
 - Break down problems into implementable pseudocode
