@@ -13,11 +13,10 @@ Before starting the material for this week, make sure to [fetch all curriculum c
 
 ## Highly suggested, but optional: 
 
-1. In Treehouse's [CSS Foundations](http://teamtreehouse.com/library/css-foundations) course, complete the following modules:
-  - Box Model
-  - Backgrounds + Borders 
-  - Flexbox + Multicolumn Layout
-2. Complete Treehouse's [CSS Layout Techniques](http://teamtreehouse.com/library/css-layout-techniques)
+1. In Treehouse's [CSS Basics](http://teamtreehouse.com/library/css-basics) course, complete the following modules:
+  - The Box Model
+  - Basic Layout
+2. Complete Treehouse's [CSS - Beyond the Basics](http://teamtreehouse.com/library/css-beyond-the-basics)
 3. Complete Treehouse's [HTML Forms](http://teamtreehouse.com/library/html-forms) course
 
 ## Submitting your work
