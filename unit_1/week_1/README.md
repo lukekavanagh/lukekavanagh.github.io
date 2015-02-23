@@ -6,16 +6,13 @@ Team Treehouse delivers content through courses, tracks and achievements. A cour
 
 ## To-Do:
 
-1. Complete achievement "Getting Started with the Console" in Treehouse's [Console Foundations ](http://teamtreehouse.com/library/console-foundations) Course.
+1. Complete achievement "Getting Started with the Console" in Treehouse's [Console Foundations ](http://teamtreehouse.com/library/console-foundations) Course **or** complete this [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 2. Complete all achievements in Treehouse's [Git Basics](http://teamtreehouse.com/library/git-basics) Course.
 3. Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Sublime Text](http://www.sublimetext.com/)
 4. [Practice Git](./git_practice) 
 5. [Create a Repository](./create_a_repository) 
 6. [Introduce Yourself](./introduce_yourself)
 7. [Describe Git](my_reflection.md)
-
-Resources: 
-- [Command Line](http://cli.learncodethehardway.org/book/)
 
 ## Submitting your work
 - You must complete the [week's submission form](http://goo.gl/forms/E9llM4sYbU) to turn in your work.
