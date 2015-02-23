@@ -1,4 +1,4 @@
-# Cipher Challenge (Pairing challenge)
+# Cipher Challenge
 
 ## Learning Competencies
 - Identify and explain what code is doing
