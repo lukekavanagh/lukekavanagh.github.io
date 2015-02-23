@@ -23,7 +23,7 @@ This week will have you using three tools
 - [PluralSight](http://www.pluralsight.com/), online videos
 - [LinqPad](http://www.linqpad.net/), swiss army knife of features - but for now our sandbox environment. If you have not yet downloaded it please do so
 
-Note the coarse used to be solely delivered via NET REPL. This is slowly being updated - in the meantime please follow the instructions below.
+Note the course used to be solely delivered via NET REPL. This is slowly being updated - in the meantime please follow the instructions below.
 
 ##How to use the tools - !important
 ####[NET REPL](how-to/net-repl.md)  
