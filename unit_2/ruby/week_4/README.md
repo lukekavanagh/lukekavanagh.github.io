@@ -12,6 +12,7 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 
 1. Treehouse: [Ruby Basics](http://teamtreehouse.com/library/ruby-basics)
 2. Treehouse: [Ruby Foundations](http://teamtreehouse.com/library/ruby-foundations)
+  - If ruby is already successfully installed on your computer, you can skip the video on installation.
 3. Complete these [Ruby Exercises](./exercises)
 
 ## Submitting your work
