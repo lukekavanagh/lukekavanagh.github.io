@@ -17,3 +17,14 @@ Your website might never feel done. This is okay, just post whatever you have at
 - Explore color schemes with [adobe kuler](https://color.adobe.com/explore/most-popular/?time=all) (check out the "explore" tab to see some statistically popular color schemes)
 - Make your website compatible across browsers with [normalize.css](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 - If you feel it's necessary, make your website responsive.
+
+## Websites from Previous Cohorts:
+
+- http://gregorykan.github.io/
+- http://samnz19.github.io/
+- http://oliviahihi.github.io/contact.html
+- https://seanyarrall.github.io/index.html
+- http://kirstylm.github.io/first_site/index.html
+- https://alexrevell.github.io/index.html
+- http://pietgeursen.github.io/homework/index.html
+- http://sarahbreezie.github.io/homework/about.html
