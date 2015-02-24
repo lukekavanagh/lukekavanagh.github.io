@@ -12,6 +12,8 @@ Before starting the material for this week, make sure to [fetch all curriculum c
   - Skip "Sharing a Website". We will be hosting our websites on github instead.
 2. [Create Your Own Website](./create_your_own_website)
 
+**Note**: You can do both of these simultaneously. Instead of using Treehouse's workspaces, you can follow along with sublime text. In previous cohorts, students have used the site that Treehouse has you build as a starting point for their own. Feel free to do the same.
+
 ## Highly suggested, but optional: 
 
 1. In Treehouse's [CSS Basics](http://teamtreehouse.com/library/css-basics) course, complete the following modules:
