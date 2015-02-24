@@ -7,12 +7,12 @@ Team Treehouse delivers content through courses, tracks and achievements. A cour
 ## To-Do:
 
 1. Do this [Command Line Crash Course](http://cli.learncodethehardway.org/book/). You can stop at "Removing A File (rm)". The rest is nice to know, but not completely necessary.
-2. Rubyists: Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Sublime Text](http://www.sublimetext.com/). Sharpies: [Setup your machine](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/cs-setup/README.md)
+2. Setup Your Machine: [Rubyists](./ruby-computer-setup) ||   [Sharpies](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/cs-setup/README.md)
 3. Complete Treehouse's [Git Basics](http://teamtreehouse.com/library/git-basics) Course.
   - Skip any parts regarding installation.
   - Treehouse uses nano as a text editor in their videos. As you're following along, you can use sublime instead.
 4. [Practice Git](./git_practice) 
-5. [Create a Repository](./create_a_repository) 
+5. [Create a Repository](./create_a_repository)
 6. [Introduce Yourself](./introduce_yourself)
 7. [Describe Git](my_reflection.md)
 
