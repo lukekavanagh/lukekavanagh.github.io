@@ -9,7 +9,7 @@ Before starting the material for this week, make sure to [fetch all curriculum c
 ## To-Do:
 
 1. Complete Treehouse's [How to Make a Website](http://teamtreehouse.com/library/how-to-make-a-website) course
-  - Skip "Sharing a Website".
+  - Skip "Sharing a Website". We will be hosting our websites on github instead.
 2. [Create Your Own Website](./create_your_own_website)
 
 ## Highly suggested, but optional: 
