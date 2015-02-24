@@ -20,7 +20,6 @@ Your website might never feel done. This is okay, just post whatever you have at
 
 ## Websites from Previous Cohorts:
 
-- https://alexrevell.github.io/index.html
 - http://carahill.github.io/week-2-website/index.html
 - http://gregorykan.github.io/
 - http://harrietm.github.io/
