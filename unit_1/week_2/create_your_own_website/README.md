@@ -20,11 +20,17 @@ Your website might never feel done. This is okay, just post whatever you have at
 
 ## Websites from Previous Cohorts:
 
-- http://gregorykan.github.io/
-- http://samnz19.github.io/
-- http://oliviahihi.github.io/contact.html
-- https://seanyarrall.github.io/index.html
-- http://kirstylm.github.io/first_site/index.html
 - https://alexrevell.github.io/index.html
+- http://carahill.github.io/week-2-website/index.html
+- http://gregorykan.github.io/
+- http://harrietm.github.io/
+- http://kirstylm.github.io/first_site/index.html
+- http://oliviahihi.github.io/contact.html
 - http://pietgeursen.github.io/homework/index.html
+- http://samnz19.github.io/
 - http://sarahbreezie.github.io/homework/about.html
+- https://seanyarrall.github.io/index.html
+
+
+
+
