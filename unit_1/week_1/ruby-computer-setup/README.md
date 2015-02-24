@@ -1,7 +1,4 @@
-[Week 1 Home](../)
-
-# U1.W1: Ruby! 
-### Computer Set-Up Instructions
+## Ruby Computer Set-Up Instructions!
 
 Now that you know a bit about your command line, you can now get your computer set up for EDA!
 
