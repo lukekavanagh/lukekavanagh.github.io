@@ -11,10 +11,11 @@ Team Treehouse delivers content through courses, tracks and achievements. A cour
 3. Complete Treehouse's [Git Basics](http://teamtreehouse.com/library/git-basics) Course.
   - Skip any parts regarding installation.
   - Treehouse uses nano as a text editor in their videos. As you're following along, you can use sublime instead.
-4. [Practice Git](./git_practice) 
+4. [Practice Git](./git_practice)
 5. [Create a Repository](./create_a_repository)
-6. [Introduce Yourself](./introduce_yourself)
-7. [Describe Git](my_reflection.md)
+6. [Learn to Fetch Changes from a Remote Repo](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md)
+7. [Introduce Yourself](./introduce_yourself)
+8. [Describe Git](my_reflection.md)
 
 ## Submitting your work
 - You must complete the [week's submission form](http://goo.gl/forms/E9llM4sYbU) to turn in your work.
