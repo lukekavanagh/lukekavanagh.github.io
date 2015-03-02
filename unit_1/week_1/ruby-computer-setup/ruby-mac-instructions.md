@@ -85,11 +85,7 @@ Type: ```brew install git```
 
 This installs git and autocompletion for git.
 
-## Release 8: Download the GCC Installer
-Visit the [osx-gcc-installer](https://github.com/kennethreitz/osx-gcc-installer/downloads) page, and download the appropriate package for your version of Mac OS 10. 
-When the download is finished, run the installer. 
-
-## Release 9: Install RVM (Ruby Version Manager)
+## Release 8: Install RVM (Ruby Version Manager)
 
 Run the following in terminal: ```\curl -sSL https://get.rvm.io | bash -s stable --ruby```
 
@@ -102,21 +98,21 @@ in all your open shell windows, in rare cases you need to reopen all shell windo
 
 Run that in the terminal. Now you have RVM!
 
-## Release 10: Install Node
+## Release 9: Install Node
 Node allows you to run Javascript in your terminal.
 
 Type: ```brew install node```
 
 You'll use this later in Phase 0.
 
-## Release 11: Install SQLite
+## Release 10: Install SQLite
 Type ```brew install SQLite3```
 
 To overwrite your system copy of SQLite, we need to type an additional command:
 
 ```brew link sqlite3 --force```
 
-## Release 12: Install Postgres
+## Release 11: Install Postgres
 Type the following commands one at a time:
 
 NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.
