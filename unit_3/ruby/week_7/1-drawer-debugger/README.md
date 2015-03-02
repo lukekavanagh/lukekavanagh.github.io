@@ -19,7 +19,4 @@ Run the code from the console. You should encounter 8 errors before it will run 
 ## Release 2: Test!
 Write tests using [Driver Test Code](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
-## Release 3: Call it again (x3)
-Interact with the code by writing at least three more different method calls. Did they return what you expected?
-
-## Release 4: Push your solution to GitHub
+## Release 3: Push your solution to GitHub
