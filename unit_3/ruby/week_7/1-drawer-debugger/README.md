@@ -9,6 +9,8 @@
 
 You will run into numerous error messages as a developer, so it's important to know what they mean and how to read them. The messages provide valuable information on where your program is having problems, but sometimes the messages are misleading, especially if you have little practice interpreting them. In this challenge, you need to work through the error messages until the program runs properly.
 
+You may want to review ruby's attr_reader for this challenge.
+
 ## Release 0: Indent the code properly
 
 ## Release 1: Debug the program
