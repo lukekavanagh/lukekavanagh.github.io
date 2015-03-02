@@ -2,8 +2,6 @@
 
 This week you get to start Ruby! These tutorials and exercises will help you build a basic Ruby toolkit. When working through the exercises, you may find it helpful to work with others from your cohort.
 
-In the first bit of the Ruby Foundations Tutorial, there's a video called "Installing Ruby". You can skip this video if you already have Ruby installed on your machine.
-
 If you need, you can review [these guidelines](../../../phase-0-handbook/submission-guidelines) on submitting challenges.
 
 Before starting this week's material, be sure to [fetch all curriculum changes](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/fetching-changes.md).
@@ -12,7 +10,7 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 
 1. Treehouse: [Ruby Basics](http://teamtreehouse.com/library/ruby-basics)
 2. Treehouse: [Ruby Foundations](http://teamtreehouse.com/library/ruby-foundations)
-  - If ruby is already successfully installed on your computer, you can skip the video on installation.
+  - Skip the video on installation. If ruby is not yet installed on your machine, you can refer back to these [instructions](https://github.com/dev-academy-phase0/phase-0-version-2.0/tree/master/unit_1/week_1/ruby-computer-setup) to install Ruby and RSpec.
 3. Complete these [Ruby Exercises](./exercises)
 
 ## Submitting your work
