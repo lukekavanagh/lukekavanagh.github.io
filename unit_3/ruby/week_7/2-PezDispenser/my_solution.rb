@@ -1,4 +1,4 @@
-# PezDispenser Class from User Stories SOLO CHALLENGE
+# PezDispenser Class from User Stories
 
 # Review the following user stories:
 # - As a pez user, I'd like to be able to "create" a new pez dispenser with a group of flavors that
