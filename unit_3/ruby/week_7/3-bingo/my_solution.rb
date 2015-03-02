@@ -1,4 +1,4 @@
-# Create a Bingo Scorer (SOLO CHALLENGE)
+# Create a Bingo Scorer
 
 class BingoBoard
 
