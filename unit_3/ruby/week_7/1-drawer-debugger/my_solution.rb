@@ -8,15 +8,6 @@ attr_reader :contents
 
 def initialize
 @contents = []
-@open = true
-end
-
-def open
-@open = true
-end
-
-def close
-@open = false
 end
 
 def add_item
