@@ -87,6 +87,8 @@ This installs git and autocompletion for git.
 
 ## Release 8: Install RVM (Ruby Version Manager)
 
+RVM allows you to install + use multiple versions of ruby on your machine.
+
 Run the following in terminal: ```\curl -sSL https://get.rvm.io | bash -s stable --ruby```
 
 At the end of the install, you should get a message like this: 
@@ -98,21 +100,26 @@ in all your open shell windows, in rare cases you need to reopen all shell windo
 
 Run that in the terminal. Now you have RVM!
 
-## Release 9: Install Node
+## Release 9: Install RSpec
+RSpec is a handy ruby testing framework. 
+
+In terminal, run: ```gem install rspec```
+
+## Release 10: Install Node
 Node allows you to run Javascript in your terminal.
 
 Type: ```brew install node```
 
 You'll use this later in Phase 0.
 
-## Release 10: Install SQLite
+## Release 11: Install SQLite
 Type ```brew install SQLite3```
 
 To overwrite your system copy of SQLite, we need to type an additional command:
 
 ```brew link sqlite3 --force```
 
-## Release 11: Install Postgres
+## Release 12: Install Postgres
 Type the following commands one at a time:
 
 NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.
