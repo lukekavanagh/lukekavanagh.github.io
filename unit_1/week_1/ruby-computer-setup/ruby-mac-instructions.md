@@ -30,13 +30,13 @@ If you are using OS X, you should upgrade to Mavericks if you haven't already. Y
 Before installing, it's always good practice to backup your hard drive so you don't lose anything!
 
 ## Release 2: Install Command Line Tools
-Release 2 - 12 will be run in your terminal. So open it, and type:
+Open up terminal, and type:
 
 ```shell
 xcode-select --install
 ```
 
-Follow the prompts to complete the install.
+Click "Install" to download and install Xcode Command Line Tools.
 
 This is apple's C compiler which will enable you to compile native apps from source. (i.e. Ruby)
 
@@ -85,21 +85,38 @@ Type: ```brew install git```
 
 This installs git and autocompletion for git.
 
-## Release 8: Install Node
+## Release 8: Download the GCC Installer
+Visit the [osx-gcc-installer](https://github.com/kennethreitz/osx-gcc-installer/downloads) page, and download the appropriate package for your version of Mac OS 10. 
+When the download is finished, run the installer. 
+
+## Release 9: Install RVM (Ruby Version Manager)
+
+Run the following in terminal: ```\curl -sSL https://get.rvm.io | bash -s stable --ruby```
+
+At the end of the install, you should get a message like this: 
+
+``` 
+To start using RVM you need to run `source /Users/YOUR_MAC_USERNAME/.rvm/scripts/rvm`
+in all your open shell windows, in rare cases you need to reopen all shell windows.
+```
+
+Run that in the terminal. Now you have RVM!
+
+## Release 10: Install Node
 Node allows you to run Javascript in your terminal.
 
 Type: ```brew install node```
 
 You'll use this later in Phase 0.
 
-## Release 9: Install SQLite
+## Release 11: Install SQLite
 Type ```brew install SQLite3```
 
 To overwrite your system copy of SQLite, we need to type an additional command:
 
 ```brew link sqlite3 --force```
 
-## Release 10: Install Postgres
+## Release 12: Install Postgres
 Type the following commands one at a time:
 
 NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.
