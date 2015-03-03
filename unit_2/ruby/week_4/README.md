@@ -13,6 +13,10 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
   - Skip the video on installation. If ruby is not yet installed on your machine, you can refer back to these [instructions](https://github.com/dev-academy-phase0/phase-0-version-2.0/tree/master/unit_1/week_1/ruby-computer-setup) to install Ruby and RSpec.
 3. Complete these [Ruby Exercises](./exercises)
 
+### Optional, but highly suggested:
+
+If you have time to spare, do Codecademy's [Ruby Course](http://www.codecademy.com/en/tracks/ruby) (up to Blocks, Procs, and Lambdas). Repetition is important when learning a new language. Getting a firm grasp of Ruby now will help you in future weeks.
+
 ## Submitting your work
 
 - You must complete the [week's submission form](http://goo.gl/forms/2XBsRXjl4V) to turn in your work.
