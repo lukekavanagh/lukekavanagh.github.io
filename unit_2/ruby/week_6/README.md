@@ -8,7 +8,7 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 
 ## To-Do:
 
-1. **Watch** Treehouse: [Ruby Objects and Classes](http://teamtreehouse.com/library/ruby-objects-and-classes) or **Do** Codecademy: [Ruby (Object-Oriented Programming Pt. 1 and Pt.2)](http://www.codecademy.com/en/tracks/ruby)
+1. **Watch** Treehouse: [Ruby Objects and Classes](http://teamtreehouse.com/library/ruby-objects-and-classes) or **Do** Codecademy: [Ruby (Object-Oriented Programming Pt. 1 and Pt. 2)](http://www.codecademy.com/en/tracks/ruby)
 2. [Die Class Pt. I](./1-die-class) 
 3. [Die Class Pt. II](./2-die-class)
 4. [Guessing Game](./3-guessing-game)
