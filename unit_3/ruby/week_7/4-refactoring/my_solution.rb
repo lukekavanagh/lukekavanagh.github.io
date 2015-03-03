@@ -1,7 +1,4 @@
-# U2.W6: Refactoring for Code Readability
-
-
-# I worked on this challenge [by myself, with: ].
+# Refactoring for Code Readability
 
 
 # Original Solution
