@@ -8,13 +8,14 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 
 ## To-Do:
 
-1. [Die Class Pt. I](./1-die-class) 
-2. [Die Class Pt. II](./2-die-class)
-3. [Guessing Game](./3-guessing-game)
-4. [Cipher](./4-cipher-challenge)
-5. [Bingo Board](./5-bingo-board)
-6. [Validate Credit Card](./6-validate-credit-card)
-7. [Bakery Challenge](./7-gps-bakery)
+1. **Watch** Treehouse: [Ruby Objects and Classes](http://teamtreehouse.com/library/ruby-objects-and-classes) or **Do** Codecademy: [Ruby (Object-Oriented Programming Pt. 1 and Pt.2)](http://www.codecademy.com/en/tracks/ruby)
+2. [Die Class Pt. I](./1-die-class) 
+3. [Die Class Pt. II](./2-die-class)
+4. [Guessing Game](./3-guessing-game)
+5. [Cipher](./4-cipher-challenge)
+6. [Bingo Board](./5-bingo-board)
+7. [Validate Credit Card](./6-validate-credit-card)
+8. [Bakery Challenge](./7-gps-bakery)
 
 ## Submitting your work
 
