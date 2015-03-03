@@ -7,6 +7,7 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 ## To-Do:
 
 1. Treehouse: [Database Foundations](http://teamtreehouse.com/library/database-foundations)
+  - Feel free to skip the 'Securing and Maintaining a MySQL Database' section.
 2. [JavaScript Gradebook](./2-js-gradebook)
 3. [JavaScript Tally Votes](./3-js-tally-votes)
 4. [Fizz Buzz Super Edition](./5-fizz-buzz)
