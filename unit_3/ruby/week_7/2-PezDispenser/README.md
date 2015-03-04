@@ -15,7 +15,7 @@ In this challenge, you will translate user stories into a Ruby object (using a c
   - As a pez user, I'd like to be able to see all the flavors inside the dispenser so I know the order of the flavors coming up.
 
 ## Release 1: Review the [Driver Code](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md)
-These do not have expectations that would return `true` or `false` if called.
+Make sure you understand what its doing, and what it implies your Pez Dispenser Class will need. 
 
 ## Release 2: [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 We definitely know we have a PezDispenser class, but what are its innards? What are PezDispenser's attribute(s) and method(s)? Take a moment to list out all the methods, and show the input and output. It's good to be clear when there isn't an input or output!
@@ -24,7 +24,7 @@ We definitely know we have a PezDispenser class, but what are its innards? What 
 Make sure your test code still works and satisfies the expected output.
 
 ## Release 4: Write Tests
-Using Driver Test code, write a couple tests to make sure your code works before you dive into refactoring.
+Write a couple tests to make sure your code works before you dive into refactoring.
 
 ## Release 5: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
 

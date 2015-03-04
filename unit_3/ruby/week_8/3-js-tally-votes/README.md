@@ -44,7 +44,7 @@ For this challenge, you will want to be familiar with `for ... in ...` [looping 
 
 ## Release 0: Run the Tests
 
-## Release 1: Write [pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md) for each failing test
+## Release 1: Write [pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md) to pass each failing test
 
 ## Release 2: Write an [initial solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md) to pass each test
 

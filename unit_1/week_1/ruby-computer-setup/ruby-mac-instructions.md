@@ -30,13 +30,13 @@ If you are using OS X, you should upgrade to Mavericks if you haven't already. Y
 Before installing, it's always good practice to backup your hard drive so you don't lose anything!
 
 ## Release 2: Install Command Line Tools
-Release 2 - 12 will be run in your terminal. So open it, and type:
+Open up terminal, and type:
 
 ```shell
 xcode-select --install
 ```
 
-Follow the prompts to complete the install.
+Click "Install" to download and install Xcode Command Line Tools.
 
 This is apple's C compiler which will enable you to compile native apps from source. (i.e. Ruby)
 
@@ -80,58 +80,46 @@ git config --global core.editor "subl -w"
 ## Release 6: Set up Sublime
 Follow [these instructions](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
 
-## Release 7: Install Rbenv
-Type: ```brew install rbenv```
-
-Now you have Rbenv! Sweet!
-
-**NOTE:** If you already have RVM installed, you will not need to install Rbenv. Do not try to install both, they don't work well together and will mess up your machine. Rbenv is preferred in many of our locations, so if you have RVM and want to install Rbenv, you'll have to uninstall RVM first.
-
-## Release 8: Install Ruby Build
-Type: ```brew install ruby-build```
-
-Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of Ruby on your machine?)
-
-**NOTE:** If you are using RVM instead of rbenv, you will not need to install ruby-build.
-
-## Release 9: Install Ruby 2.0.0
-Type: ```rbenv install 2.0.0-p481```
-
-Now, you need to set the default Ruby in your computer to the Ruby we just installed.
-
-Type: ``` rbenv global 2.0.0-p481```
-
-NOTE: You just installed Ruby 2.0.0 as your default. When you are reading the Ruby Docs, make sure you are referring to this version, NOT Ruby 2.1.0.
-
-## Release 10: Install Git
+## Release 7: Install Git
 Type: ```brew install git```
 
 This installs git and autocompletion for git.
 
-## Release 11: Install Node
+## Release 8: Install RVM (Ruby Version Manager)
+
+RVM allows you to install + use multiple versions of ruby on your machine.
+
+Run the following in terminal: ```\curl -sSL https://get.rvm.io | bash -s stable --ruby```
+
+At the end of the install, you should get a message like this: 
+
+``` 
+To start using RVM you need to run `source /Users/YOUR_MAC_USERNAME/.rvm/scripts/rvm`
+in all your open shell windows, in rare cases you need to reopen all shell windows.
+```
+
+Run that in the terminal. Now you have RVM!
+
+## Release 9: Install RSpec
+RSpec is a handy ruby testing framework. 
+
+In terminal, run: ```gem install rspec```
+
+## Release 10: Install Node
 Node allows you to run Javascript in your terminal.
 
 Type: ```brew install node```
 
 You'll use this later in Phase 0.
 
-## Release 12: Install Rspec
-Type ```gem install rspec```
-
-This will install RSpec, a Ruby testing framework.
-
-**Important note: You should NEVER need to `sudo gem install ___` anything. If you get a permission issue, that means your system isn't using the rbenv/rvm version of rubygems.**
-
-Go back to Release 9 and make sure you typed the second command to set your global version of Ruby.
-
-## Release 13: Install SQLite
+## Release 11: Install SQLite
 Type ```brew install SQLite3```
 
 To overwrite your system copy of SQLite, we need to type an additional command:
 
 ```brew link sqlite3 --force```
 
-## Release 14: Install Postgres
+## Release 12: Install Postgres
 Type the following commands one at a time:
 
 NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.

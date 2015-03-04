@@ -1,4 +1,4 @@
-# PezDispenser Class from User Stories SOLO CHALLENGE
+# PezDispenser Class from User Stories
 
 # Review the following user stories:
 # - As a pez user, I'd like to be able to "create" a new pez dispenser with a group of flavors that
@@ -16,7 +16,7 @@ class PezDispenser
 
 end
 
-# DRIVER TESTS GO BELOW THIS LINE
+# DRIVER CODE 
 
 flavors = %w(cherry chocolate cola grape lemon orange peppermint raspberry strawberry).shuffle
 super_mario = PezDispenser.new(flavors)
@@ -29,3 +29,5 @@ puts "Now you have #{super_mario.pez_count} pez!"
 puts "Oh, you want one do you?"
 puts "The pez flavor you got is: #{super_mario.get_pez}"
 puts "Now you have #{super_mario.pez_count} pez!"
+
+# WRITE TESTS BELOW THIS LINE
