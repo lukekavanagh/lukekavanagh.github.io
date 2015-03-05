@@ -17,6 +17,10 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 7. [Validate Credit Card](./6-validate-credit-card)
 8. [Bakery Challenge](./7-gps-bakery)
 
+#### Everyday
+- Practice touch typing in Ruby on Rails and JavaScript / jQuery with [typing.io](https://typing.io). You should be past 40wpm by the end of phase zero.
+- Practice sublime text, terminal, and git shortcuts with [shortcutfoo.com](https://www.shortcutfoo.com/).
+
 ## Submitting your work
 
 - You must complete the [week's submission form](http://goo.gl/forms/mAF7FVgjb1) to turn in your work.
