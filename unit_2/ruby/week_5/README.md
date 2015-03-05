@@ -15,6 +15,10 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 7. [Separate Numbers with Commas](./5-nums-commas-solo-challenge)
 8. [Create Accountability Groups](./6-acct-groups)
 
+#### Everyday
+- Practice touch typing in Ruby on Rails and JavaScript / jQuery with [typing.io](https://typing.io). You should be past 40wpm by the end of phase zero.
+- Practice sublime text, terminal, and git shortcuts with [shortcutfoo.com](https://www.shortcutfoo.com/).
+
 ## Submitting your work
 
 - You must complete the [week's submission form](http://goo.gl/forms/PTNmDL8Lnv) to turn in your work.
