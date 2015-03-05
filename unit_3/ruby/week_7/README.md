@@ -11,6 +11,10 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 4. [Refactoring for Code Readability](./4-refactoring)
 5. [Virus Predictor](./5-virus-predictor)
 
+#### Everyday
+- Practice touch typing in Ruby on Rails and JavaScript / jQuery with [typing.io](https://typing.io). You should be past 40wpm by the end of phase zero.
+- Practice sublime text, terminal, and git shortcuts with [shortcutfoo.com](https://www.shortcutfoo.com/).
+
 ## Submitting your work
 
 - You must complete the [week's submission form](http://goo.gl/forms/ZMVghNQx0a) to turn in your work.
