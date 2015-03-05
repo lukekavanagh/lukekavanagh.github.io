@@ -14,6 +14,9 @@ Before starting the material for this week, make sure to [fetch all curriculum c
 
 **Note**: You can do both of these simultaneously. Instead of using Treehouse's workspaces, you can follow along with sublime text. In previous cohorts, students have used the site that Treehouse has you build as a starting point for their own. Feel free to do the same.
 
+#### Everyday
+- Practice sublime text, terminal, and git shortcuts with [shortcutfoo.com](https://www.shortcutfoo.com/).
+
 ## Highly suggested, but optional: 
 
 1. In Treehouse's [CSS Basics](http://teamtreehouse.com/library/css-basics) course, complete the following modules:
