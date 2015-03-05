@@ -25,6 +25,10 @@ This week, we'll learn some basic principles + common patterns of programming. Y
 10. Treehouse: [Website Optimization](http://teamtreehouse.com/library/website-optimization)
 11. [Make your Website Interactive](./interactive-website)
 
+#### Everyday
+- Practice touch typing in JavaScript / jQuery with [typing.io](https://typing.io). You should be past 40wpm by the end of phase zero.
+- Practice sublime text, terminal, and git shortcuts with [shortcutfoo.com](https://www.shortcutfoo.com/).
+
 ## Submitting your work
 
 - You must complete the [week's submission form](http://goo.gl/forms/y1ZOlZfiSI) to turn in your work.
