@@ -11,6 +11,10 @@ Before starting this week's material, be sure to [fetch all curriculum changes](
 5. [Translate Ruby to Javascript](./translate-to-js)
 6. [Revisit Your Website](./revisit-website)
 
+#### Everyday
+- Practice touch typing in Ruby on Rails and JavaScript / jQuery with [typing.io](https://typing.io). You should be past 40wpm by the end of phase zero.
+- Practice sublime text, terminal, and git shortcuts with [shortcutfoo.com](https://www.shortcutfoo.com/).
+
 ## Submitting your work
 
 - You must complete the [week's submission form](http://goo.gl/forms/j7A1t5XvJF) to turn in your work.
