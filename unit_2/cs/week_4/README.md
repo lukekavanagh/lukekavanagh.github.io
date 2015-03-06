@@ -3,10 +3,12 @@
 This weeks you get to play with C Sharp! (C#). The linked tutorials, labs and exercises will introduce you to the language and start to help you develop your C# utility belt for tackling the gravest of programming challenges.
 
 Each week has a focus:
-- Week 4: Fundamentals
-- Week 5: Algorithms
-- Week 6: Classes
-- Week 7: Objects
+- Week 4: Fundamentals  
+- Week 5: Algorithms  
+- Week 6: Classes  
+- Week 7: Objects  
+
+
 
 When working through the material it may be helpful to talk to fellow students about what you have learned, work with another student on a problem or compare and discuss solutions you have completed. Reach out on slack and post links to code in stypie.
 
