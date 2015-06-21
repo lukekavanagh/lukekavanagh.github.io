@@ -31,9 +31,7 @@ a {
     transition: all .35s;
 }
 
-a:hover {
-    color: #008080;
-}
+a:hover,
 a:focus {
     color: #008080;
     text-decoration: none;
