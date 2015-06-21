@@ -37,7 +37,7 @@ a:focus {
     text-decoration: none;
 }
 
-.Portfolio-list li:hover a {
+ul.Portfolio-list hover:{
     color: #008080;
 }
 
