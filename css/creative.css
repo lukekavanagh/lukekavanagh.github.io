@@ -91,7 +91,7 @@ aside {
     padding: 0;
 }
 
-.portfolio-list li:hover {
+li:hover {
     color: #008080;
 }
 .navbar-default {
