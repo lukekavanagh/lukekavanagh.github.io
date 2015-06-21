@@ -285,6 +285,10 @@ header .header-content .header-content-inner p {
     color: #fff;
 }
 
+.Portfolio-list .hover {
+    color: #008080;
+}
+
 .portfolio-box {
     display: block;
     position: relative;
