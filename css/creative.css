@@ -150,7 +150,6 @@ aside {
     .navbar-default .navbar-header .navbar-brand:hover,
     .navbar-default .navbar-header .navbar-brand:focus {
         color: #fff;
-        font-size: 15px;
     }
 
     .navbar-default .nav > li>a,
