@@ -285,7 +285,7 @@ header .header-content .header-content-inner p {
     color: #fff;
 }
 
-.Portfolio-list .hover {
+.Portfolio-list a.hover {
     color: #008080;
 }
 
