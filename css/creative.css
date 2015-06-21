@@ -78,6 +78,7 @@ p {
     margin-bottom: auto;
 }
 
+
 section {
     padding: 25px 0;
 }
@@ -90,6 +91,9 @@ aside {
     padding: 0;
 }
 
+.portfolio-list ul li a.hover {
+    color: #008080;
+}
 .navbar-default {
     border-color: #000;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
