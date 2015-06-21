@@ -37,6 +37,10 @@ a:focus {
     text-decoration: none;
 }
 
+.Portfolio-list li:hover a {
+    color: #008080;
+}
+
 h1,
 h2,
 h3,
