@@ -31,9 +31,7 @@ a {
     transition: all .35s;
 }
 
-a:hover {
-    color: #008080;
-}
+a:hover,
 a:focus {
     color: #008080;
     text-decoration: none;
@@ -146,18 +144,16 @@ aside {
 
     .navbar-default .navbar-header .navbar-brand {
         color: rgba(255,255,255,.7);
-        font-size: 20px;
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
     .navbar-default .navbar-header .navbar-brand:focus {
-        color: #008080;
+        color: #fff;
     }
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
         color: rgba(255,255,255,.7);
-        font-size: 15px;
     }
 
     .navbar-default .nav > li>a:hover,
@@ -285,10 +281,6 @@ header .header-content .header-content-inner p {
     margin-bottom:30px;
     list-style: none;
     color: #fff;
-}
-
-.Portfolio-list a.hover {
-    color: #008080;
 }
 
 .portfolio-box {
