@@ -91,7 +91,7 @@ aside {
 }
 
 .navbar-default {
-    border-color: #fff;
+    border-color: #000;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     background-color: #fff;
     -webkit-transition: all .35s;
@@ -127,7 +127,7 @@ aside {
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #008080!important;
+    color: #000!important;
     background-color: transparent;
 }
 
@@ -138,7 +138,7 @@ aside {
 
 @media(min-width:768px) {
     .navbar-default {
-        border-color: rgba(255,255,255,.3);
+        border-color: #000;
         background-color: transparent;
     }
 
@@ -189,7 +189,6 @@ aside {
 }
 
 header {
-    margin-bottom: 10px;
     position: relative;
     width: 100%;
     min-height: auto;
@@ -278,6 +277,7 @@ header .header-content .header-content-inner p {
 .Portfolio-list {
     font-style: 'Dosis';
     margin-top: 50px;
+    margin-right 
     list-style: none;
     color: #fff;
 }
