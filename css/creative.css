@@ -144,6 +144,7 @@ aside {
 
     .navbar-default .navbar-header .navbar-brand {
         color: rgba(255,255,255,.7);
+        font-size: 15px;
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
