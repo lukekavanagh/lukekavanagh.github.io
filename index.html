@@ -106,7 +106,7 @@
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/arc.js/v0.1.0/arc.js'></script>
 <!-- This is our data file - it's an array of [[lat,lng],[lat,lng]] pairs
      that define starting and ending locations of flight paths -->
-<script src='C:\Users\Apprentice\Documents\lukekavanagh.github.io/js/flight.js'>
+<script src='js/flight.js'>
 </script>
 <style>
 
@@ -123,7 +123,7 @@
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoiZW52aW50YWdlIiwiYSI6Inh6U0p2bkEifQ.p6VrrwOc_w0Ij-iTj7Zz8A';
 
-map = L.mapbox.map('map', 'mapbox.satellite' { zoomControl: false })
+map = L.mapbox.map('map', 'mapbox.satellite', { zoomControl: false })
     .setView([30, 5], 3);
 
 new L.Control.Zoom({ position: 'bottomright' }).addTo(map);
