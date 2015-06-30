@@ -95,44 +95,82 @@
             </div>
         </div>
     </section>
-<!--
-    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet'/>
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/arc.js/v0.1.0/arc.js'></script>
+<!-- This is our data file - it's an array of [[lat,lng],[lat,lng]] pairs
+     that define starting and ending locations of flight paths -->
+<script src='C:\Users\Apprentice\Documents\lukekavanagh.github.io/js/flight.js'>
+</script>
+<style>
+
+.path-start {
+  -webkit-transition:stroke-dashoffset 5s ease-in;
+     -moz-transition:stroke-dashoffset 5s ease-in;
+       -o-transition:stroke-dashoffset 5s ease-in;
+          transition:stroke-dashoffset 5s ease-in;
+  }
+</style>
+
+<div id='map' class='dark'></div>
+
 <script>
+L.mapbox.accessToken = 'pk.eyJ1IjoiZW52aW50YWdlIiwiYSI6Inh6U0p2bkEifQ.p6VrrwOc_w0Ij-iTj7Zz8A';
+
+map = L.mapbox.map('map', 'mapbox.satellite', { zoomControl: false }).setView([30, 5], 3);
+
+new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
+// var credits = L.control.attribution({
+//   prefix: '<a href="http://openflights.org/data.html">Flight data from Open Flights, under the ODbL license</a>'
+// }).addTo(map);
 
 
-var w = 1020,
-    h = 500,
-    z = 20
-    x = w / z,
-    y = h / z;
-var svg = d3.select("body").append("svg")
-    .attr("width", w)
-    .attr("height", h)
-svg.selectAll("rect")
-    .data(d3.range(x * y))
-    .enter().append("rect")
-    .attr("transform", translate)
-    .attr("width", z)
-    .attr("height", z)
-    .style("fill", function(d) { return d3.hsl(d % x / x * 180, 1, Math.floor(d / x) /y); })
-    .on("mouseover", mouseover);
-function translate(d) {
- return "translate(" + (d % x) * z + "," + Math.floor(d / x) * z + ")";
-}
-function mouseover(d) {
-    this.parentNode.appendChild(this);
-d3.select(this)
-    .style("pointer-events", "none")
-    .transition()
-    .duration(750)
-    .attr("transform", "translate(480,480)scale(23)rotate(180)")
-    .transition()
-    .delay(1500)
-    .attr("transform", "translate(240,240)scale(0)")
-    .style("fill-opacity", 0)
-    .remove();
+// map.dragging.disable();
+map.touchZoom.disable();
+map.doubleClickZoom.disable();
+map.scrollWheelZoom.disable();
+if (map.tap) map.tap.disable();
+
+
+function obj(ll) { return { y: ll[0], x: ll[1] }; }
+
+for (var i = 0; i < pairs.length; i++) {
+
+    var generator = new arc.GreatCircle(
+            obj(pairs[i][0]),
+            obj(pairs[i][1]));
+    var line = generator.Arc(100, { offset: 10 });
+ 
+    var newLine = L.polyline(line.geometries[0].coords.map(function(c) {
+        return c.reverse();
+    }), {
+        color: '#fff',
+        weight: 1,
+        opacity: 0.5
+    })
+    .addTo(map);
+    var totalLength = newLine._path.getTotalLength();
+    newLine._path.classList.add('path-start');
+
+    newLine._path.style.strokeDashoffset = totalLength;
+    newLine._path.style.strokeDasharray = totalLength;
+
+    setTimeout((function(path) {
+        return function() {
+       
+            path.style.strokeDashoffset = 0;
+        };
+    })(newLine._path), i * 100);
 }
 </script>
+</body>
+</html>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
