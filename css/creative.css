@@ -78,6 +78,7 @@ p {
     margin-bottom: auto;
 }
 
+
 section {
     padding: 25px 0;
 }
@@ -274,7 +275,7 @@ header .header-content .header-content-inner p {
     font-style: 'Dosis';
     margin-top: 50px;
     margin-right: 50px;
-    margin-bottom:50px;
+    margin-bottom:30px;
     list-style: none;
     color: #fff;
 }
