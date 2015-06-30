@@ -74,10 +74,9 @@ p {
 
 .text-projects {
     color: rgba(255,255,255,.7);
-    margin-top: 30px;
+    margin-top: auto;
     margin-bottom: auto;
 }
-
 
 section {
     padding: 25px 0;
