@@ -183,6 +183,10 @@ aside {
         color: #fff; /* the colour of the nav bars on scroll */
     
     }
+
+    .text-projects {
+        margin-top: 40;
+    }
 }
 
 header {
