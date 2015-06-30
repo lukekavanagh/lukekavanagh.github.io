@@ -126,7 +126,7 @@ L.mapbox.accessToken = 'pk.eyJ1IjoiZW52aW50YWdlIiwiYSI6Inh6U0p2bkEifQ.p6VrrwOc_w
 map = L.mapbox.map('map', 'mapbox.satellite', { zoomControl: false })
     .setView([30, 5], 3);
 
-new L.Control.Zoom({ position: 'bottomright' }).addTo(map);
+new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
 // var credits = L.control.attribution({
 //   prefix: '<a href="http://openflights.org/data.html">Flight data from Open Flights, under the ODbL license</a>'
 // }).addTo(map);
@@ -170,8 +170,6 @@ for (var i = 0; i < pairs.length; i++) {
     })(newLine._path), i * 100);
 }
 </script>
-</body>
-</html>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
